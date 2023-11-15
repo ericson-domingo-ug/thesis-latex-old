@@ -10,21 +10,21 @@
 
 \GroupIDtrue % comment to disable group ID
 
-\ResultDiscusstrue % comment to disable results and discussions
+%\ResultDiscusstrue % comment to disable results and discussions
 
-\Conctrue % comment to disable conclusions
+%\Conctrue % comment to disable conclusions
 
-\Finishedtrue % comment to disable manuscript for final hard binding
+%\Finishedtrue % comment to disable manuscript for final hard binding
 
 %\Gradtrue % comment to disable graduate school format
 
 %\PhDtrue % comment to disable PhD dissertation format
 
-\PubListtrue % comment to disable publication list
+%\PubListtrue % comment to disable publication list
 
-\Vitatrue % comment to disable author(s) vita
+%\Vitatrue % comment to disable author(s) vita
 
-\Indextrue % comment to disable index 
+%\Indextrue % comment to disable index 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % document IDs
@@ -34,22 +34,22 @@
 %\newcommand{\documentType}{Thesis Proposal}
 %\newcommand{\documentType}{Dissertation Proposal}
 %\newcommand{\documentType}{Dissertation}
-\newcommand{\college}{Gokongwei College of Engineering}
-\newcommand{\department}{Department of Electronics and Communications Engineering} 
+\newcommand{\college}{College of Science}
+\newcommand{\department}{Department of Physics} 
 \newcommand{\degreeType}{Bachelor of Science}
 %\newcommand{\degreeType}{Bachelor and Master of Science}  
 %\newcommand{\degreeType}{Master of Engineering Program} 
 %\newcommand{\degreeType}{Master of Science} 
 %\newcommand{\degreeType}{Doctor of Philosophy} 
-\newcommand{\degree}{Electronics and Communications Engineering}
-\newcommand{\degreeAbbrv}{BS-ECE}
+\newcommand{\degree}{Physics with Specialization in Medical Instrumentation}
+\newcommand{\degreeAbbrv}{BS PHY-MED}
 %\newcommand{\degreeAbbrv}{BS-MS-ECE}
 %\newcommand{\degreeAbbrv}{MEP-ECE}
 %\newcommand{\degreeAbbrv}{MS-ECE}
 %\newcommand{\degreeAbbrv}{PhD-ECE}
 
 \newcommand{\documentAdviserTitle}{Dr.} 
-\newcommand{\documentAdviser}{Francisco D. Baltasar}
+\newcommand{\documentAdviser}{Edgar A. Vallar}
 
 \newcommand{\examinerChairTitle}{Dr.} 
 \newcommand{\examinerChair}{Amado Z. Hernandez}
@@ -73,10 +73,10 @@
 
 \newcommand{\groupID}{ESG-04} % group ID is for undergraduates as of this formatting
 
-\newcommand{\numberOfAuthors}{5} % adapt the number of names below accordingly and sort the sunames in alphabetically ascending manner, like in the following example
+\newcommand{\numberOfAuthors}{1} % adapt the number of names below accordingly and sort the sunames in alphabetically ascending manner, like in the following example
 
-\defineAuthor{surname1}{dela Cruz}
-\defineAuthor{firstname1}{Juan Z.}
+\defineAuthor{surname1}{Domingo}
+\defineAuthor{firstname1}{John Ericson O.}
 
 \defineAuthor{surname2}{Franco}
 \defineAuthor{firstname2}{Nat Y.}
@@ -90,7 +90,7 @@
 \defineAuthor{surname5}{Rianzares}
 \defineAuthor{firstname5}{Max V.}
 
-\newcommand{\documentTitle}{This is the title of my thesis} % put tilde (~) between words to indicate non-breaking adjacent words
+\newcommand{\documentTitle}{Urban Heat Island} % put tilde (~) between words to indicate non-breaking adjacent words
 
 \newcommand{\keywords}{alloy system, characterization, InP, InGaAs}
 
@@ -114,89 +114,93 @@
 %  the excludeonly package provides the logically opposite command: \excludeonly{<file list>}
 
 \includeonly{% just comment those portions that you do not want to be included in the parsing
-introduction,
+%introduction,
 literature_review,
-theoretical_considerations,
-design_considerations,
-methodology,
-results_and_discussion,
-conclusions,
-answers_to_questions,
-usage_examples,
-publication,
-vita,
+%theoretical_considerations,
+%design_considerations,
+%methodology,
+%results_and_discussion,
+%conclusions,
+%answers_to_questions,
+%usage_examples,
+%publication,
+%vita,
 }
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{document}
 \pagenumbering{roman} % roman page numbering starts here
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \input{./format/pre_toc.ltx}
-\cleardoublepage
-
+%\cleardoublepage
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\begin{SingleSpace}
+%\tableofcontents
+%\cleardoublepage
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\listoffigures
+%\cleardoublepage
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\listoftables
+%\cleardoublepage
+%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{SingleSpace}
-\tableofcontents
-\cleardoublepage
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\listoffigures
-\cleardoublepage
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\listoftables
-\cleardoublepage
+%\phantomsection
+%\addcontentsline{toc}{chapter}{Abbreviations}
+%{
+%	\printterms[database=abbreviation, style=indexalign, prelocation=dotfill, location=first, columns=1, postname=\hspace{3em}]
+%	\thispagestyle{plain}
+%}	
+%\cleardoublepage
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\phantomsection
-\addcontentsline{toc}{chapter}{Abbreviations}
-{
-	\printterms[database=abbreviation, style=indexalign, prelocation=dotfill, location=first, columns=1, postname=\hspace{3em}]
-	\thispagestyle{plain}
-}	
-\cleardoublepage
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\phantomsection
-\addcontentsline{toc}{chapter}{Notation}
-{
-	\printterms[database=notation, style=indexalign, prelocation=dotfill, location=first, columns=1, postname=\hspace{3em}]
-	{
-	\vspace{3ex}
-	\noindent Throughout this \MakeTextLowercase{\documentType}, mathematical notations conform to ISO~80000-2 standard, e.g. variable names are printed in italics, the only exception being acronyms like e.g. $\mathrm{SNR}$, which are printed in regular font.  Constants are also set in regular font like $\mathrm{j}$.  Functions are also set in regular font, e.g. in $\sin \left( \cdot \right)$.  Commonly used notations are $t$, $f$, $\mathrm{j} = \sqrt{-1}$, $n$ and $\exp \left( \cdot \right)$, which refer to the time variable, frequency variable, imaginary unit, $n$th variable, and exponential function, respectively.
-	}
-	\thispagestyle{plain}
-}
-\cleardoublepage
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\phantomsection
-\addcontentsline{toc}{chapter}{Glossary}
-{
-	\printterms[database=glossary, style=indexalign, prelocation=none, location=hide, columns=1, postname=\hspace{3em}]
-	\thispagestyle{plain}
-}
-\cleardoublepage
+%\phantomsection
+%\addcontentsline{toc}{chapter}{Notation}
+%{
+%	\printterms[database=notation, style=indexalign, prelocation=dotfill, location=first, columns=1, postname=\hspace{3em}]
+%	{
+%	\vspace{3ex}
+%	\noindent Throughout this \MakeTextLowercase{\documentType}, mathematical notations conform to ISO~80000-2 standard, e.g. variable names are printed in italics, the only exception being acronyms like e.g. $\mathrm{SNR}$, which are printed in regular font.  Constants are also set in regular font like $\mathrm{j}$.  Functions are also set in regular font, e.g. in $\sin \left( \cdot \right)$.  Commonly used notations are $t$, $f$, $\mathrm{j} = \sqrt{-1}$, $n$ and $\exp \left( \cdot \right)$, which refer to the time variable, frequency variable, imaginary unit, $n$th variable, and exponential function, respectively.
+%	}
+%	\thispagestyle{plain}
+%}
+%\cleardoublepage
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\phantomsection
+%\addcontentsline{toc}{chapter}{Glossary}
+%{
+%	\printterms[database=glossary, style=indexalign, prelocation=none, location=hide, columns=1, postname=\hspace{3em}]
+%	\thispagestyle{plain}
+%}
+%\cleardoublepage
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\lstlistoflistings
-\cleardoublepage
-\end{SingleSpace}
+%\lstlistoflistings
+%\cleardoublepage
+%\end{SingleSpace}
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\pagenumbering{arabic} % arabic page numbering starts here
+%\chapter{Introduction}
+%\label{ch:intro}
+%\startcontents[chapters]
+%\begin{SingleSpace}	
+%	\Mprintcontents  % for creating an actual mini TOC for this chapter
+%\end{SingleSpace}
+%\include{introduction}
+%\stopcontents[chapters]
+%\cleardoublepage
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\pagenumbering{arabic} % arabic page numbering starts here
-\chapter{Introduction}
-\label{ch:intro}
-\startcontents[chapters]
-\begin{SingleSpace}	
-	\Mprintcontents  % for creating an actual mini TOC for this chapter
-\end{SingleSpace}
-\include{introduction}
-\stopcontents[chapters]
-\cleardoublepage
+%DLSU format
+\ULCornerWallPaper{1}{../format/dlsu_thesis_paper_letterhead}
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 \chapter{Literature Review} 
 \label{ch:litrev} 
 \startcontents[chapters]
@@ -208,38 +212,38 @@ vita,
 \cleardoublepage
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\chapter{Theoretical Considerations}
-%\chaptermark{Theoretical Considerations} % uncomment this and put a shorter version of the chapter title for the TOC and chapter markings (i.e., header or footer)
-\label{ch:theorycon}
-\startcontents[chapters]
-\begin{SingleSpace}	
-	\Mprintcontents 
-\end{SingleSpace}
-\include{theoretical_considerations}
-\stopcontents[chapters]
-\cleardoublepage
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\chapter{Design Considerations} 
-\label{ch:designcon} 
-\startcontents[chapters]
-\begin{SingleSpace}	
-	\Mprintcontents 
-\end{SingleSpace}
-\include{design_considerations}
-\stopcontents[chapters]
-\cleardoublepage
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\chapter{Methodology} 
-\label{ch:method} 
-\startcontents[chapters]
-\begin{SingleSpace}	
-	\Mprintcontents 
-\end{SingleSpace}
-\include{methodology}
-\stopcontents[chapters]
-\cleardoublepage
+%\chapter{Theoretical Considerations}
+%%\chaptermark{Theoretical Considerations} % uncomment this and put a shorter version of the chapter title for the TOC and chapter markings (i.e., header or footer)
+%\label{ch:theorycon}
+%\startcontents[chapters]
+%\begin{SingleSpace}	
+%	\Mprintcontents 
+%\end{SingleSpace}
+%\include{theoretical_considerations}
+%\stopcontents[chapters]
+%\cleardoublepage
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\chapter{Design Considerations} 
+%\label{ch:designcon} 
+%\startcontents[chapters]
+%\begin{SingleSpace}	
+%	\Mprintcontents 
+%\end{SingleSpace}
+%\include{design_considerations}
+%\stopcontents[chapters]
+%\cleardoublepage
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\chapter{Methodology} 
+%\label{ch:method} 
+%\startcontents[chapters]
+%\begin{SingleSpace}	
+%	\Mprintcontents 
+%\end{SingleSpace}
+%\include{methodology}
+%\stopcontents[chapters]
+%\cleardoublepage
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \ifResultDiscuss 
@@ -269,8 +273,8 @@ vita,
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \renewcommand{\UrlFont}{\normalfont}
-\bibliographystyle{IEEEtr} % for IEEE referencing format
-%\bibliographystyle{apalike} % for APA referencing format
+%\bibliographystyle{IEEEtr} % for IEEE referencing format
+\bibliographystyle{apalike} % for APA referencing format
 \begin{SingleSpace}
   {\small \bibliography{references}}
 	\vfill
@@ -293,27 +297,27 @@ Produced: \usdate\today, \currenttime \\
 \end{flushright}
 \cleardoublepage 
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\SingleSpacing
-\appendix
-\renewcommand{\thechapter}{\Alph{chapter}}
-\renewcommand{\thesection}{\thechapter\arabic{section}}
-\appto\appendix{\renewcommand\thechapter{\AlphAlph{\value{chapter}}}} % for increasing appendix chapters beyond Z, i.e. AA, AB, etc.
-\chapter{Answers to Questions to this \documentType}
-%\startcontents[chapters]
-%\Mprintcontents 
-\include{answers_to_questions}
-%\stopcontents[chapters]
-\cleardoublepage
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\chapter{Usage Examples} 
-\label{ch:usage_examples}
-% \startcontents[chapters]
-% \Mprintcontents  
-\include{usage_examples}
-% \stopcontents[chapters]
-\cleardoublepage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\SingleSpacing
+%\appendix
+%\renewcommand{\thechapter}{\Alph{chapter}}
+%\renewcommand{\thesection}{\thechapter\arabic{section}}
+%\appto\appendix{\renewcommand\thechapter{\AlphAlph{\value{chapter}}}} % for increasing appendix chapters beyond Z, i.e. AA, AB, etc.
+%\chapter{Answers to Questions to this \documentType}
+%%\startcontents[chapters]
+%%\Mprintcontents 
+%\include{answers_to_questions}
+%%\stopcontents[chapters]
+%\cleardoublepage
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\chapter{Usage Examples} 
+%\label{ch:usage_examples}
+%% \startcontents[chapters]
+%% \Mprintcontents  
+%\include{usage_examples}
+%% \stopcontents[chapters]
+%\cleardoublepage
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \ifPubList

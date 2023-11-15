@@ -1,319 +1,325 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.1.20)  20 JAN 2017 09:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12.10) (preloaded format=pdflatex 2022.1.6)  14 NOV 2023 20:02
 entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
 **./document.tex
 (document.tex
-LaTeX2e <2016/03/31> patch level 3
-Babel <3.9r> and hyphenation patterns for 75 language(s) loaded.
-(format/preamble.ltx
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\latex\memoir\memoir.cls
-Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docu
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2021-11-22> (format/preamble.ltx
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/memoir\memoir.cls
+Document Class: memoir 2021/06/16 v3.7p configurable book, report, article docu
 ment class
-\onelineskip=\skip41
-\lxvchars=\skip42
-\xlvchars=\skip43
-\@memcnta=\count79
-\c@@memmarkcntra=\count80
-\l@nohyphenation=\language75
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
-Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+\onelineskip=\skip47
+\lxvchars=\skip48
+\xlvchars=\skip49
+\@memcnta=\count183
+\c@@memmarkcntra=\count184
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
 )
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\latex\ifetex\ifetex.sty
-Package: ifetex 2011/12/15 v1.2 ifetex
+\stockheight=\skip50
+\stockwidth=\skip51
+\trimtop=\skip52
+\trimedge=\skip53
 
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\plain\ifetex\ifetex.tex))
-("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
-Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
-)
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
-Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
-Package ifluatex Info: LuaTeX not detected.
-)
-\stockheight=\skip44
-\stockwidth=\skip45
-\trimtop=\skip46
-\trimedge=\skip47
-
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\latex\memoir\mem12.clo
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/memoir\mem12.clo
 File: mem12.clo 2010/10/19 v0.4b memoir class 12pt size option
 )
-\binding=\skip48
-\spinemargin=\skip49
-\foremargin=\skip50
-\uppermargin=\skip51
-\lowermargin=\skip52
-\headdrop=\skip53
-\normalrulethickness=\skip54
-\mem@maxheadheight=\skip55
-\mem@maxfootheight=\skip56
-\headwidth=\skip57
-\c@storedpagenumber=\count81
-\memPD=\dimen102
-\m@mabparskip=\skip58
-\thanksmarkwidth=\skip59
-\thanksmarksep=\skip60
-\droptitle=\skip61
-\c@book=\count82
-\c@part=\count83
-\c@chapter=\count84
-\c@section=\count85
-\c@subsection=\count86
-\c@subsubsection=\count87
-\c@paragraph=\count88
-\c@subparagraph=\count89
-\beforechapskip=\skip62
-\midchapskip=\skip63
-\afterchapskip=\skip64
-\chapindent=\skip65
-\bottomsectionskip=\skip66
-\secindent=\skip67
-\beforesecskip=\skip68
-\aftersecskip=\skip69
-\subsecindent=\skip70
-\beforesubsecskip=\skip71
-\aftersubsecskip=\skip72
-\subsubsecindent=\skip73
-\beforesubsubsecskip=\skip74
-\aftersubsubsecskip=\skip75
-\paraindent=\skip76
-\beforeparaskip=\skip77
-\afterparaskip=\skip78
-\subparaindent=\skip79
-\beforesubparaskip=\skip80
-\aftersubparaskip=\skip81
-\pfbreakskip=\skip82
-\c@@ppsavesec=\count90
-\c@@ppsaveapp=\count91
-\ragrparindent=\dimen103
-\everylistparindent=\dimen104
-\parsepi=\skip83
-\topsepi=\skip84
-\itemsepi=\skip85
-\parsepii=\skip86
-\topsepii=\skip87
-\topsepiii=\skip88
-\itemsepii=\skip89
-\itemsepiii=\skip90
-\partopsepii=\skip91
-\partopsepiii=\skip92
-\m@msavetopsep=\skip93
-\m@msavepartopsep=\skip94
-\@enLab=\toks14
-\abstitleskip=\skip95
-\absleftindent=\skip96
-\abs@leftindent=\dimen105
-\absrightindent=\skip97
-\absparindent=\skip98
-\absparsep=\skip99
-\c@vslineno=\count92
-\c@poemline=\count93
-\c@modulo@vs=\count94
-\c@memfvsline=\count95
-\vleftskip=\skip100
-\vrightskip=\skip101
-\stanzaskip=\skip102
-\versewidth=\skip103
-\vgap=\skip104
-\vindent=\skip105
-\vleftmargin=\dimen106
-\c@verse=\count96
-\c@chrsinstr=\count97
-\beforepoemtitleskip=\skip106
-\afterpoemtitleskip=\skip107
-\c@poem=\count98
-\beforePoemTitleskip=\skip108
-\midPoemTitleskip=\skip109
-\afterPoemTitleskip=\skip110
-\col@sep=\dimen107
-\extrarowheight=\dimen108
-\NC@list=\toks15
-\extratabsurround=\skip111
-\backup@length=\skip112
-\TX@col@width=\dimen109
-\TX@old@table=\dimen110
-\TX@old@col=\dimen111
-\TX@target=\dimen112
-\TX@delta=\dimen113
-\TX@cols=\count99
-\TX@ftn=\toks16
-\heavyrulewidth=\dimen114
-\lightrulewidth=\dimen115
-\cmidrulewidth=\dimen116
-\belowrulesep=\dimen117
-\belowbottomsep=\dimen118
-\aboverulesep=\dimen119
-\abovetopsep=\dimen120
-\cmidrulesep=\dimen121
-\cmidrulekern=\dimen122
-\defaultaddspace=\dimen123
-\@cmidla=\count100
-\@cmidlb=\count101
-\@aboverulesep=\dimen124
-\@belowrulesep=\dimen125
-\@thisruleclass=\count102
-\@lastruleclass=\count103
-\@thisrulewidth=\dimen126
-\ctableftskip=\skip113
-\ctabrightskip=\skip114
-\abovecolumnspenalty=\count104
-\@linestogo=\count105
-\@cellstogo=\count106
-\@cellsincolumn=\count107
-\crtok=\toks17
-\@mincolumnwidth=\dimen127
-\c@newflo@tctr=\count108
-\mem@margin@floatbox=\box26
-\@contcwidth=\skip115
-\@contindw=\skip116
-\abovecaptionskip=\skip117
-\belowcaptionskip=\skip118
-\subfloattopskip=\skip119
-\subfloatcapskip=\skip120
-\subfloatcaptopadj=\skip121
-\subfloatbottomskip=\skip122
-\subfloatlabelskip=\skip123
-\subfloatcapmargin=\dimen128
-\c@@contsubnum=\count109
-\m@mscap@capbox=\box27
-\m@mscap@fbox=\box28
-\sidecapsep=\dimen129
-\sidecapwidth=\dimen130
-\m@m@tempdima=\dimen131
-\m@mscapraise=\dimen132
-\sidecapraise=\dimen133
-\m@mscapmainwidth=\dimen134
-\m@mscaplkern=\dimen135
-\beforeepigraphskip=\skip124
-\afterepigraphskip=\skip125
-\epigraphwidth=\skip126
-\epigraphrule=\skip127
-LaTeX Info: Redefining \em on input line 7551.
-LaTeX Info: Redefining \emph on input line 7559.
-\tocentryskip=\skip128
-\tocbaseline=\skip129
-\cftparskip=\skip130
-\cftbeforebookskip=\skip131
-\cftbookindent=\dimen136
-\cftbooknumwidth=\dimen137
-\cftbeforepartskip=\skip132
-\cftpartindent=\skip133
-\cftpartnumwidth=\skip134
-\cftbeforechapterskip=\skip135
-\cftchapterindent=\skip136
-\cftchapternumwidth=\skip137
-\cftbeforesectionskip=\skip138
-\cftsectionindent=\skip139
-\cftsectionnumwidth=\skip140
-\cftbeforesubsectionskip=\skip141
-\cftsubsectionindent=\skip142
-\cftsubsectionnumwidth=\skip143
-\cftbeforesubsubsectionskip=\skip144
-\cftsubsubsectionindent=\skip145
-\cftsubsubsectionnumwidth=\skip146
-\cftbeforeparagraphskip=\skip147
-\cftparagraphindent=\skip148
-\cftparagraphnumwidth=\skip149
-\cftbeforesubparagraphskip=\skip150
-\cftsubparagraphindent=\skip151
-\cftsubparagraphnumwidth=\skip152
-\prechapterprecisshift=\dimen138
-\c@maxsecnumdepth=\count110
-\bibindent=\dimen139
-\bibitemsep=\skip153
-\indexcolsep=\skip154
-\indexrule=\skip155
-\indexmarkstyle=\toks18
-\@indexbox=\insert199
-\glossarycolsep=\dimen140
-\glossaryrule=\dimen141
-\sideparvshift=\skip156
-\sideins=\insert198
-\sidebartopsep=\skip157
-\sidebarhsep=\skip158
-\sidebarvsep=\skip159
-\sidebarwidth=\skip160
-\footmarkwidth=\skip161
-\footmarksep=\skip162
-\footparindent=\skip163
-\footinsdim=\skip164
-\footinsv@r=\insert197
-\@mpfootinsv@r=\insert196
-\m@m@k=\count111
-\m@m@h=\dimen142
-\m@mipn@skip=\skip165
-\sidefootins=\insert195
-\sidefootadjust=\skip166
-\sidefootheight=\skip167
-\sidefoothsep=\skip168
-\sidefootvsep=\skip169
-\sidefootwidth=\skip170
-\m@mdownsf=\skip171
-\c@sidefootnote=\count112
-\sidefootmarkwidth=\skip172
-\sidefootmarksep=\skip173
-\sidefootparindent=\skip174
-\c@pagenote=\count113
-\c@pagenoteshadow=\count114
-\mem@pn@lastkern=\skip175
-\every@verbatim=\toks19
-\afterevery@verbatim=\toks20
-\verbatim@line=\toks21
-\tab@position=\count115
-\verbatim@in@stream=\read1
-\verbatimindent=\skip176
+\binding=\skip54
+\spinemargin=\skip55
+\foremargin=\skip56
+\uppermargin=\skip57
+\lowermargin=\skip58
+\headdrop=\skip59
+\normalrulethickness=\skip60
+\mem@maxheadheight=\skip61
+\mem@maxfootheight=\skip62
+\headwidth=\skip63
+\c@storedpagenumber=\count185
+\memPD=\dimen138
+\m@mabparskip=\skip64
+\thanksmarkwidth=\skip65
+\thanksmarksep=\skip66
+\droptitle=\skip67
+\c@book=\count186
+\c@part=\count187
+\c@chapter=\count188
+\c@section=\count189
+\c@subsection=\count190
+\c@subsubsection=\count191
+\c@paragraph=\count192
+\c@subparagraph=\count193
+\beforechapskip=\skip68
+\midchapskip=\skip69
+\afterchapskip=\skip70
+\chapindent=\skip71
+\bottomsectionskip=\skip72
+\secindent=\skip73
+\beforesecskip=\skip74
+\aftersecskip=\skip75
+\subsecindent=\skip76
+\beforesubsecskip=\skip77
+\aftersubsecskip=\skip78
+\subsubsecindent=\skip79
+\beforesubsubsecskip=\skip80
+\aftersubsubsecskip=\skip81
+\paraindent=\skip82
+\beforeparaskip=\skip83
+\afterparaskip=\skip84
+\subparaindent=\skip85
+\beforesubparaskip=\skip86
+\aftersubparaskip=\skip87
+\pfbreakskip=\skip88
+\c@@ppsavesec=\count194
+\c@@ppsaveapp=\count195
+\ragrparindent=\dimen139
+\everylistparindent=\dimen140
+\parsepi=\skip89
+\topsepi=\skip90
+\itemsepi=\skip91
+\parsepii=\skip92
+\topsepii=\skip93
+\topsepiii=\skip94
+\itemsepii=\skip95
+\itemsepiii=\skip96
+\partopsepii=\skip97
+\partopsepiii=\skip98
+\m@msavetopsep=\skip99
+\m@msavepartopsep=\skip100
+\@enLab=\toks16
+\abstitleskip=\skip101
+\absleftindent=\skip102
+\abs@leftindent=\dimen141
+\absrightindent=\skip103
+\absparindent=\skip104
+\absparsep=\skip105
+\c@vslineno=\count196
+\c@poemline=\count197
+\c@modulo@vs=\count198
+\c@memfvsline=\count199
+\vleftskip=\skip106
+\vrightskip=\skip107
+\stanzaskip=\skip108
+\versewidth=\skip109
+\vgap=\skip110
+\vindent=\skip111
+\vleftmargin=\dimen142
+\c@verse=\count266
+\c@chrsinstr=\count267
+\beforepoemtitleskip=\skip112
+\afterpoemtitleskip=\skip113
+\c@poem=\count268
+\beforePoemTitleskip=\skip114
+\midPoemTitleskip=\skip115
+\afterPoemTitleskip=\skip116
+
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
+\col@sep=\dimen143
+\ar@mcellbox=\box50
+\extrarowheight=\dimen144
+\NC@list=\toks17
+\extratabsurround=\skip117
+\backup@length=\skip118
+\ar@cellbox=\box51
+)
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/tools\dcolumn.sty
+Package: dcolumn 2014/10/28 v1.06 decimal alignment package (DPC)
+)
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/tools\delarray.sty
+Package: delarray 2014/10/28 v1.01 array delimiter package (DPC)
+)
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+\TX@col@width=\dimen145
+\TX@old@table=\dimen146
+\TX@old@col=\dimen147
+\TX@target=\dimen148
+\TX@delta=\dimen149
+\TX@cols=\count269
+\TX@ftn=\toks18
+)
+\heavyrulewidth=\dimen150
+\lightrulewidth=\dimen151
+\cmidrulewidth=\dimen152
+\belowrulesep=\dimen153
+\belowbottomsep=\dimen154
+\aboverulesep=\dimen155
+\abovetopsep=\dimen156
+\cmidrulesep=\dimen157
+\cmidrulekern=\dimen158
+\defaultaddspace=\dimen159
+\@cmidla=\count270
+\@cmidlb=\count271
+\@aboverulesep=\dimen160
+\@belowrulesep=\dimen161
+\@thisruleclass=\count272
+\@lastruleclass=\count273
+\@thisrulewidth=\dimen162
+\ctableftskip=\skip119
+\ctabrightskip=\skip120
+\abovecolumnspenalty=\count274
+\@linestogo=\count275
+\@cellstogo=\count276
+\@cellsincolumn=\count277
+\crtok=\toks19
+\@mincolumnwidth=\dimen163
+\c@newflo@tctr=\count278
+\mem@margin@floatbox=\box52
+\@contcwidth=\skip121
+\@contindw=\skip122
+\abovecaptionskip=\skip123
+\belowcaptionskip=\skip124
+\subfloattopskip=\skip125
+\subfloatcapskip=\skip126
+\subfloatcaptopadj=\skip127
+\subfloatbottomskip=\skip128
+\subfloatlabelskip=\skip129
+\subfloatcapmargin=\dimen164
+\c@@contsubnum=\count279
+\m@mscap@capbox=\box53
+\m@mscap@fbox=\box54
+\sidecapsep=\dimen165
+\sidecapwidth=\dimen166
+\m@m@tempdima=\dimen167
+\m@mscapraise=\dimen168
+\sidecapraise=\dimen169
+\m@mscapmainwidth=\dimen170
+\m@mscaplkern=\dimen171
+\beforeepigraphskip=\skip130
+\afterepigraphskip=\skip131
+\epigraphwidth=\skip132
+\epigraphrule=\skip133
+LaTeX Info: Redefining \em on input line 7654.
+LaTeX Info: Redefining \emph on input line 7662.
+\tocentryskip=\skip134
+\tocbaseline=\skip135
+\cftparskip=\skip136
+\cftbeforebookskip=\skip137
+\cftbookindent=\dimen172
+\cftbooknumwidth=\dimen173
+\cftbeforepartskip=\skip138
+\cftpartindent=\skip139
+\cftpartnumwidth=\skip140
+\cftbeforechapterskip=\skip141
+\cftchapterindent=\skip142
+\cftchapternumwidth=\skip143
+\cftbeforesectionskip=\skip144
+\cftsectionindent=\skip145
+\cftsectionnumwidth=\skip146
+\cftbeforesubsectionskip=\skip147
+\cftsubsectionindent=\skip148
+\cftsubsectionnumwidth=\skip149
+\cftbeforesubsubsectionskip=\skip150
+\cftsubsubsectionindent=\skip151
+\cftsubsubsectionnumwidth=\skip152
+\cftbeforeparagraphskip=\skip153
+\cftparagraphindent=\skip154
+\cftparagraphnumwidth=\skip155
+\cftbeforesubparagraphskip=\skip156
+\cftsubparagraphindent=\skip157
+\cftsubparagraphnumwidth=\skip158
+\prechapterprecisshift=\dimen174
+\c@maxsecnumdepth=\count280
+\bibindent=\dimen175
+\bibitemsep=\skip159
+\indexcolsep=\skip160
+\indexrule=\skip161
+\indexmarkstyle=\toks20
+\@indexbox=\insert252
+\glossarycolsep=\dimen176
+\glossaryrule=\dimen177
+\sideparvshift=\skip162
+\sideins=\insert251
+\sidebartopsep=\skip163
+\sidebarhsep=\skip164
+\sidebarvsep=\skip165
+\sidebarwidth=\skip166
+\footmarkwidth=\skip167
+\footmarksep=\skip168
+\footparindent=\skip169
+\footinsdim=\skip170
+\footinsv@r=\insert250
+\@mpfootinsv@r=\insert249
+\m@m@k=\count281
+\m@m@h=\dimen178
+\m@mipn@skip=\skip171
+\sidefootins=\insert248
+\sidefootadjust=\skip172
+\sidefootheight=\skip173
+\sidefoothsep=\skip174
+\sidefootvsep=\skip175
+\sidefootwidth=\skip176
+\m@mdownsf=\skip177
+\c@sidefootnote=\count282
+\sidefootmarkwidth=\skip178
+\sidefootmarksep=\skip179
+\sidefootparindent=\skip180
+\c@pagenote=\count283
+\c@pagenoteshadow=\count284
+\mem@pn@lastkern=\skip181
+\every@verbatim=\toks21
+\afterevery@verbatim=\toks22
+\verbatim@line=\toks23
+\tab@position=\count285
+\verbatim@in@stream=\read2
+\verbatimindent=\skip182
 \verbatim@out=\write3
-\bvboxsep=\skip177
-\c@memfbvline=\count116
-\c@bvlinectr=\count117
-\bvnumlength=\skip178
-\fb@frw=\dimen143
-\fb@frh=\dimen144
-\FrameRule=\dimen145
-\FrameSep=\dimen146
-\c@cp@cntr=\count118
-LaTeX Info: Redefining \: on input line 12068.
-LaTeX Info: Redefining \! on input line 12070.
-\c@ism@mctr=\count119
-\c@xsm@mctr=\count120
-\c@csm@mctr=\count121
-\c@ksm@mctr=\count122
-\c@xksm@mctr=\count123
-\c@cksm@mctr=\count124
-\c@msm@mctr=\count125
-\c@xmsm@mctr=\count126
-\c@cmsm@mctr=\count127
-\c@bsm@mctr=\count128
-\c@workm@mctr=\count129
-\c@sheetsequence=\count130
-\c@lastsheet=\count131
-\c@lastpage=\count132
-\c@figure=\count133
-\c@lofdepth=\count134
-\cftbeforefigureskip=\skip179
-\cftfigureindent=\skip180
-\cftfigurenumwidth=\skip181
-\c@table=\count135
-\c@lotdepth=\count136
-\cftbeforetableskip=\skip182
-\cfttableindent=\skip183
-\cfttablenumwidth=\skip184
+\bvboxsep=\skip183
+\c@memfbvline=\count286
+\c@bvlinectr=\count287
+\bvnumlength=\skip184
+\fb@frw=\dimen179
+\fb@frh=\dimen180
+\FrameRule=\dimen181
+\FrameSep=\dimen182
+
+
+LaTeX hooks Warning: Generic hook 'package/before/framed' is deprecated.
+(hooks)              Use hook 'package/framed/before' instead.
+
+\c@cp@cntr=\count288
+\c@ism@mctr=\count289
+\c@xsm@mctr=\count290
+\c@csm@mctr=\count291
+\c@ksm@mctr=\count292
+\c@xksm@mctr=\count293
+\c@cksm@mctr=\count294
+\c@msm@mctr=\count295
+\c@xmsm@mctr=\count296
+\c@cmsm@mctr=\count297
+\c@bsm@mctr=\count298
+\c@workm@mctr=\count299
+\c@sheetsequence=\count300
+\c@lastsheet=\count301
+\c@lastpage=\count302
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/textcase\textcase.sty
+Package: textcase 2019/09/14 v1.00 Text only upper/lower case changing (DPC)
+)
+\c@figure=\count303
+\c@lofdepth=\count304
+\cftbeforefigureskip=\skip185
+\cftfigureindent=\skip186
+\cftfigurenumwidth=\skip187
+\c@table=\count305
+\c@lotdepth=\count306
+\cftbeforetableskip=\skip188
+\cfttableindent=\skip189
+\cfttablenumwidth=\skip190
 Package abstract [2008/07/23] emulated by memoir.
 Package appendix [2008/07/23] emulated by memoir.
-Package array [2008/09/09] emulated by memoir.
 Package booktabs [2016/05/16] emulated by memoir.
 Package ccaption [2008/07/23] emulated by memoir.
 Package changepage [2008/07/23] emulated by memoir.
 Package chngcntr [2008/07/23] emulated by memoir.
 Package chngpage [2008/07/23] emulated by memoir.
 Package crop emulated by memoir.
-Package dcolumn [2008/07/23] emulated by memoir.
-Package delarray [2008/07/23] emulated by memoir.
 Package enumerate [2008/07/23] emulated by memoir.
 Package epigraph [2008/07/23] emulated by memoir.
 Package ifmtarg [2008/07/23] emulated by memoir.
 Package index [2008/07/23] emulated by memoir.
 Package makeidx [2008/07/23] emulated by memoir.
 Package moreverb [2008/07/23] emulated by memoir.
-Package mparhack [2008/07/23] emulated by memoir.
 Package needspace [2008/07/23] emulated by memoir.
 Package newfile [2008/07/23] emulated by memoir.
 Package nextpage [2008/07/23] emulated by memoir.
@@ -323,7 +329,6 @@ Package patchcmd [2008/07/23] emulated by memoir.
 Package setspace [2008/07/23] emulated by memoir.
 Package shortvrb [2008/07/23] emulated by memoir.
 Package showidx [2008/07/23] emulated by memoir.
-Package tabularx [2008/07/23] emulated by memoir.
 Package titleref [2008/07/23] emulated by memoir.
 Package titling [2008/07/23] emulated by memoir.
 Package tocbibind [2008/07/23] emulated by memoir.
@@ -332,81 +337,82 @@ Package tocvsec2 [2008/07/23] emulated by memoir.
 Package verbatim [2008/07/23] emulated by memoir.
 Package verse [2008/07/23] emulated by memoir.
 
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\latex\memoir\mempatch.sty
-Package: mempatch 2009/07/24 v6.0f Patches for memoir class v1.6180339
-))
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
-Package: amsmath 2016/06/28 v2.15d AMS math features
-\@mathmargin=\skip185
+
+LaTeX hooks Warning: Generic hook 'package/before/float' is deprecated.
+(hooks)              Use hook 'package/float/before' instead.
+
+) (C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2021/10/15 v2.17l AMS math features
+\@mathmargin=\skip191
 
 For additional information on amsmath, use the `?' option.
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
-Package: amstext 2000/06/29 v2.01 AMS text
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks22
-\ex@=\dimen147
+\@emptytoks=\toks24
+\ex@=\dimen183
 ))
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen148
+\pmbraise@=\dimen184
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
-Package: amsopn 2016/03/08 v2.02 operator names
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2021/08/26 v2.02 operator names
 )
-\inf@bad=\count137
-LaTeX Info: Redefining \frac on input line 199.
-\uproot@=\count138
-\leftroot@=\count139
-LaTeX Info: Redefining \overline on input line 297.
-\classnum@=\count140
-\DOTSCASE@=\count141
-LaTeX Info: Redefining \ldots on input line 394.
-LaTeX Info: Redefining \dots on input line 397.
-LaTeX Info: Redefining \cdots on input line 518.
-\Mathstrutbox@=\box29
-\strutbox@=\box30
-\big@size=\dimen149
-LaTeX Font Info:    Redeclaring font encoding OML on input line 634.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 635.
-\macc@depth=\count142
-\c@MaxMatrixCols=\count143
-\dotsspace@=\muskip10
-\c@parentequation=\count144
-\dspbrk@lvl=\count145
-\tag@help=\toks23
-\row@=\count146
-\column@=\count147
-\maxfields@=\count148
-\andhelp@=\toks24
-\eqnshift@=\dimen150
-\alignsep@=\dimen151
-\tagshift@=\dimen152
-\tagwidth@=\dimen153
-\totwidth@=\dimen154
-\lineht@=\dimen155
-\@envbody=\toks25
-\multlinegap=\skip186
-\multlinetaggap=\skip187
-\mathdisplay@stack=\toks26
-LaTeX Info: Redefining \[ on input line 2739.
-LaTeX Info: Redefining \] on input line 2740.
+\inf@bad=\count307
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count308
+\leftroot@=\count309
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count310
+\DOTSCASE@=\count311
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box55
+\strutbox@=\box56
+\big@size=\dimen185
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count312
+\c@MaxMatrixCols=\count313
+\dotsspace@=\muskip16
+\c@parentequation=\count314
+\dspbrk@lvl=\count315
+\tag@help=\toks25
+\row@=\count316
+\column@=\count317
+\maxfields@=\count318
+\andhelp@=\toks26
+\eqnshift@=\dimen186
+\alignsep@=\dimen187
+\tagshift@=\dimen188
+\tagwidth@=\dimen189
+\totwidth@=\dimen190
+\lineht@=\dimen191
+\@envbody=\toks27
+\multlinegap=\skip192
+\multlinetaggap=\skip193
+\mathdisplay@stack=\toks28
+LaTeX Info: Redefining \[ on input line 2938.
+LaTeX Info: Redefining \] on input line 2939.
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-))
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\latex\isomath\isomath.sty
+)) (C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/isomath\isomath.sty
 Package: isomath 2012/09/04 v0.6.1 ISO math style
 
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\latex\was\fixmath.sty
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/was\fixmath.sty
 Package: fixmath 2000/04/11 v0.9 (WaS)
 LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 27.
 LaTeX Font Info:    Redeclaring math symbol \Delta on input line 28.
@@ -449,1081 +455,1164 @@ LaTeX Font Info:    Redeclaring math symbol \varphi on input line 64.
 LaTeX Font Info:    Redeclaring math symbol \varrho on input line 65.
 LaTeX Font Info:    Redeclaring math symbol \varsigma on input line 66.
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
-Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks27
+\KV@toks@=\toks29
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
-Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
-Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
-
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
-Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
-)
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
-Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
-Package etexcmds Info: Could not find \expanded.
-(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
-(etexcmds)             that some package has redefined \expanded.
-(etexcmds)             In the latter case, load this package earlier.
-)))
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.s
+ty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+))
 LaTeX Font Info:    Overwriting math alphabet `\mathsfit' in version `bold'
 (Font)                  OML/cmbr/m/it --> OML/cmbr/bx/it on input line 201.
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\jknappen\mathrsfs.sty"
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/jknappen\mathrsfs.sty
 Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
 \symrsfs=\mathgroup6
 )
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\generic\xint\xintexpr.sty
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\generic\xint\xintfrac.sty
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\generic\xint\xint.sty
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\generic\xint\xintcore.sty
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\generic\xint\xintkernel.sty
-Package: xintkernel 2017/01/06 1.2k Paraphernalia for the xint packages (JFB)
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/generic/xint\xintexpr.sty
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/generic/xint\xintfrac.sty
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/generic/xint\xint.sty
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/generic/xint\xintcore.sty
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/generic/xint\xintkernel.sty
+Package: xintkernel 2021/07/13 v1.4j Paraphernalia for the xint packages (JFB)
+\xint_c_ii^xiv=\count319
+\xint_c_ii^xxi=\count320
 )
-Package: xintcore 2017/01/06 1.2k Expandable arithmetic on big integers (JFB)
-\xint_c_x^viii=\count149
-\xint_c_x^ix=\count150
-\xint_c_x^viii_mone=\count151
-\xint_c_xii_e_viii=\count152
-\xint_c_xi_e_viii_mone=\count153
-\xint_c_xii_e_viii_mone=\count154
+Package: xintcore 2021/07/13 v1.4j Expandable arithmetic on big integers (JFB)
+\xint_c_x^viii=\count321
+\xint_c_x^ix=\count322
+\xint_c_x^viii_mone=\count323
+\xint_c_xii_e_viii=\count324
+\xint_c_xi_e_viii_mone=\count325
 )
-Package: xint 2017/01/06 1.2k Expandable operations on big integers (JFB)
+Package: xint 2021/07/13 v1.4j Expandable operations on big integers (JFB)
+\xint_c_nine_x^viii=\count326
 )
-Package: xintfrac 2017/01/06 1.2k Expandable operations on fractions (JFB)
-) (C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\generic\xint\xinttools.sty
-Package: xinttools 2017/01/06 1.2k Expandable and non-expandable utilities (JFB
+Package: xintfrac 2021/07/13 v1.4j Expandable operations on fractions (JFB)
+) (C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/generic/xint\xinttools.sty
+Package: xinttools 2021/07/13 v1.4j Expandable and non-expandable utilities (JF
+B)
+\XINT_toks=\toks30
 )
-\XINT_toks=\toks28
-)
-Package: xintexpr 2017/01/06 1.2k Expandable expression parser (JFB)
-)
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
-Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+Package: xintexpr 2021/07/13 v1.4j Expandable expression parser (JFB)
+ (C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/generic/xint\xinttrig.sty
+Package: xinttrig 2021/07/13 v1.4j Trigonometrical functions for xintexpr (JFB)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
-Package: graphics 2016/07/10 v1.0t Standard LaTeX Graphics (DPC,SPQR)
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
-Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/generic/xint\xintlog.sty
+Package: xintlog 2021/07/13 v1.4j Logarithms and exponentials for xintexpr (JFB
+)
+
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/poormanlog\poormanlog.s
+ty
+Package: poormanlog 2019/04/22 v0.05 base 10 log and pow with 9 digits (JFB)
+
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/generic/poormanlog\poormanlog
+.tex))))
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: pdftex.def on input line 99.
+Package graphics Info: Driver file: pdftex.def on input line 107.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
-File: pdftex.def 2016/07/10 v0.06j Graphics/color for pdfTeX
-\Gread@gobject=\count155
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 ))
-\Gin@req@height=\dimen156
-\Gin@req@width=\dimen157
-)
-("C:\Program Files\MiKTeX 2.9\tex\latex\tools\multicol.sty"
-Package: multicol 2016/04/07 v1.8p multicolumn formatting (FMi)
-\c@tracingmulticols=\count156
-\mult@box=\box31
-\multicol@leftmargin=\dimen158
-\c@unbalance=\count157
-\c@collectmore=\count158
-\doublecol@number=\count159
-\multicoltolerance=\count160
-\multicolpretolerance=\count161
-\full@width=\dimen159
-\page@free=\dimen160
-\premulticols=\dimen161
-\postmulticols=\dimen162
-\multicolsep=\skip188
-\multicolbaselineskip=\skip189
-\partial@page=\box32
-\last@line=\box33
-\maxbalancingoverflow=\dimen163
-\mult@rightbox=\box34
-\mult@grightbox=\box35
-\mult@gfirstbox=\box36
-\mult@firstbox=\box37
-\@tempa=\box38
-\@tempa=\box39
-\@tempa=\box40
-\@tempa=\box41
-\@tempa=\box42
-\@tempa=\box43
-\@tempa=\box44
-\@tempa=\box45
-\@tempa=\box46
-\@tempa=\box47
-\@tempa=\box48
-\@tempa=\box49
-\@tempa=\box50
-\@tempa=\box51
-\@tempa=\box52
-\@tempa=\box53
-\@tempa=\box54
-\c@columnbadness=\count162
-\c@finalcolumnbadness=\count163
-\last@try=\dimen164
-\multicolovershoot=\dimen165
-\multicolundershoot=\dimen166
-\mult@nat@firstbox=\box55
-\colbreak@box=\box56
-\mc@col@check@num=\count164
-)
-("C:\Program Files\MiKTeX 2.9\tex\latex\multirow\multirow.sty"
-Package: multirow 2016/11/25 v2.2 Span multiple rows of a table
-\multirow@colwidth=\skip190
-\multirow@cntb=\count165
-\multirow@dima=\skip191
-\bigstrutjot=\dimen167
-)
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\rotating.sty"
-Package: rotating 2016/05/22 v2.16c rotated objects in LaTeX
+\Gin@req@height=\dimen192
+\Gin@req@width=\dimen193
+) (C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.sty
+Package: multicol 2021/10/28 v1.9b multicolumn formatting (FMi)
+\c@tracingmulticols=\count327
+\mult@box=\box57
+\multicol@leftmargin=\dimen194
+\c@unbalance=\count328
+\c@collectmore=\count329
+\doublecol@number=\count330
+\multicoltolerance=\count331
+\multicolpretolerance=\count332
+\full@width=\dimen195
+\page@free=\dimen196
+\premulticols=\dimen197
+\postmulticols=\dimen198
+\multicolsep=\skip194
+\multicolbaselineskip=\skip195
+\partial@page=\box58
+\last@line=\box59
+\maxbalancingoverflow=\dimen199
+\mult@rightbox=\box60
+\mult@grightbox=\box61
+\mult@firstbox=\box62
+\mult@gfirstbox=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\@tempa=\box98
+\@tempa=\box99
+\c@minrows=\count333
+\c@columnbadness=\count334
+\c@finalcolumnbadness=\count335
+\last@try=\dimen256
+\multicolovershoot=\dimen257
+\multicolundershoot=\dimen258
+\mult@nat@firstbox=\box100
+\colbreak@box=\box101
+\mc@col@check@num=\count336
+) (C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip196
+\multirow@cntb=\count337
+\multirow@dima=\skip197
+\bigstrutjot=\dimen259
+) (C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/graphics\rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty"
-Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
 )
-\c@r@tfl@t=\count166
-\rotFPtop=\skip192
-\rotFPbot=\skip193
-\rot@float@box=\box57
-\rot@mess@toks=\toks29
+\c@r@tfl@t=\count338
+\rotFPtop=\skip198
+\rotFPbot=\skip199
+\rot@float@box=\box102
+\rot@mess@toks=\toks31
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\pdflscape.sty"
-Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\lscape.sty"
-Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape.sty
+Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 )
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\latex\mdwtools\mdwtab.sty
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/mdwtools\mdwtab.sty
 Package: mdwtab 1998/04/28 1.9 Table typesetting with style
-\tab@state=\count167
-\tab@columns=\count168
-\tab@preamble=\toks30
-\tab@shortline=\toks31
-\extrarowheight=\dimen168
-\tabextrasep=\dimen169
-\arrayextrasep=\dimen170
-\smarraycolsep=\dimen171
-\smarrayextrasep=\dimen172
-\tab@width=\dimen173
-\col@sep=\dimen174
-\tab@endheight=\dimen175
-\tab@leftskip=\skip194
-\tab@rightskip=\skip256
-\fn@notes=\box58
-\fn@width=\dimen176
+\tab@state=\count339
+\tab@columns=\count340
+\tab@preamble=\toks32
+\tab@shortline=\toks33
+\extrarowheight=\dimen260
+\tabextrasep=\dimen261
+\arrayextrasep=\dimen262
+\smarraycolsep=\dimen263
+\smarrayextrasep=\dimen264
+\tab@width=\dimen265
+\col@sep=\dimen266
+\tab@endheight=\dimen267
+\tab@leftskip=\skip256
+\tab@rightskip=\skip257
+\fn@notes=\box103
+\fn@width=\dimen268
 )
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\latex\ltablex\ltablex.sty
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/ltablex\ltablex.sty
 Package: ltablex 2014/08/13 v1.1 Modified tabularx
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\tools\longtable.sty"
-Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
-\LTleft=\skip257
-\LTright=\skip258
-\LTpre=\skip259
-\LTpost=\skip260
-\LTchunksize=\count169
-\LTcapwidth=\dimen177
-\LT@head=\box59
-\LT@firsthead=\box60
-\LT@foot=\box61
-\LT@lastfoot=\box62
-\LT@cols=\count170
-\LT@rows=\count171
-\c@LT@tables=\count172
-\c@LT@chunks=\count173
-\LT@p@ftn=\toks32
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
+Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
+\LTleft=\skip258
+\LTright=\skip259
+\LTpre=\skip260
+\LTpost=\skip261
+\LTchunksize=\count341
+\LTcapwidth=\dimen269
+\LT@head=\box104
+\LT@firsthead=\box105
+\LT@foot=\box106
+\LT@lastfoot=\box107
+\LT@gbox=\box108
+\LT@cols=\count342
+\LT@rows=\count343
+\c@LT@tables=\count344
+\c@LT@chunks=\count345
+\LT@p@ftn=\toks34
 ))
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\latex\eqparbox\eqparbox.sty
-Package: eqparbox 2013/03/15 v4.0 Create equal-widthed boxes
-\eqp@tempdima=\skip261
-\eqp@tempdimb=\skip262
-\eqp@tabular@box=\box63
-\eqp@list@box=\box64
-\eqp@list@indent=\skip263
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/eqparbox\eqparbox.sty
+Package: eqparbox 2017/09/03 v4.1 Create equal-widthed boxes
+\eqp@tempdima=\skip262
+\eqp@tempdimb=\skip263
+\eqp@tabular@box=\box109
+\eqp@list@box=\box110
+\eqp@list@indent=\skip264
 
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\latex\environ\environ.sty
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/environ\environ.sty
 Package: environ 2014/05/04 v0.3 A new way to define environments
 
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\latex\trimspaces\trimspaces.sty
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/trimspaces\trimspaces.s
+ty
 Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 )))
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
 
-Class memoir Warning: You are using the caption package with the memoir class. 
-To prepare we will now reset all captioning macros and configurations to kernel
- defaults, and then let the caption package take over. Please remember to use
- the caption package interfaces in order to
- configure your captions.
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen270
+\captionmargin@=\dimen271
+\captionwidth=\dimen272
+\caption@tempdima=\dimen273
+\caption@indent=\dimen274
+\caption@parindent=\dimen275
+\caption@hangindent=\dimen276
+Package caption Info: memoir document class detected.
 
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption.sty
-Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
-
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption3.sty
-Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
-Package caption3 Info: TeX engine: e-TeX on input line 67.
-\captionmargin=\dimen178
-\captionmargin@=\dimen179
-\captionwidth=\dimen180
-\caption@tempdima=\dimen181
-\caption@indent=\dimen182
-\caption@parindent=\dimen183
-\caption@hangindent=\dimen184
-)
-\c@ContinuedFloat=\count174
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption-memoir.
+sto
+File: caption-memoir.sto 2020/10/10 v2.1 Adaption of the caption package to the
+ memoir document class (AR)
+))
+\c@caption@flags=\count346
+\c@continuedfloat=\count347
+Package caption Info: changepage package is loaded.
+\caption@adjustwidth@hsize=\dimen277
+\caption@adjustwidth@linewidth=\dimen278
 Package caption Info: longtable package is loaded.
 
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\ltcaption.sty
-Package: ltcaption 2013/06/09 v1.4-94 longtable captions (AR)
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/caption\ltcaption.sty
+Package: ltcaption 2020/05/30 v1.4b longtable captions (AR)
 )
 Package caption Info: rotating package is loaded.
 )
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\latex\excludeonly\excludeonly.s
-ty
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/excludeonly\excludeonly
+.sty
 Package: excludeonly 2003/03/14 v1.0 eponymous command opposite to \includeonly
 
 )
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\latex\microtype\microtype.sty
-Package: microtype 2016/05/14 v2.6a Micro-typographical refinements (RS)
-\MT@toks=\toks33
-\MT@count=\count175
-LaTeX Info: Redefining \textls on input line 774.
-\MT@outer@kern=\dimen185
-LaTeX Info: Redefining \textmicrotypecontext on input line 1310.
-\MT@listname@count=\count176
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.sty
+Package: microtype 2021/12/10 v3.0b Micro-typographical refinements (RS)
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count348
+)
+\MT@toks=\toks35
+\MT@count=\count349
+\MT@tempbox=\box111
+LaTeX Info: Redefining \leftprotrusion on input line 1010.
+LaTeX Info: Redefining \rightprotrusion on input line 1018.
+LaTeX Info: Redefining \textls on input line 1173.
+\MT@outer@kern=\dimen279
+LaTeX Info: Redefining \textmicrotypecontext on input line 1759.
+\MT@listname@count=\count350
 
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\latex\microtype\microtype-pdfte
-x.def
-File: microtype-pdftex.def 2016/05/14 v2.6a Definitions specific to pdftex (RS)
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype-pdf
+tex.def
+File: microtype-pdftex.def 2021/12/10 v3.0b Definitions specific to pdftex (RS)
 
-LaTeX Info: Redefining \lsstyle on input line 916.
-LaTeX Info: Redefining \lslig on input line 916.
-\MT@outer@space=\skip264
+LaTeX Info: Redefining \lsstyle on input line 897.
+LaTeX Info: Redefining \lslig on input line 897.
+\MT@outer@space=\skip265
 )
 Package microtype Info: Loading configuration file microtype.cfg.
 
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\latex\microtype\microtype.cfg
-File: microtype.cfg 2016/05/14 v2.6a microtype main configuration file (RS)
-)) (C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\latex\textcase\textcase.sty
-Package: textcase 2004/10/07 v0.07 Text only upper/lower case changing (DPC)
-LaTeX Info: Redefining \MakeTextUppercase on input line 47.
-LaTeX Info: Redefining \MakeTextLowercase on input line 50.
-)
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\latex\blindtext\blindtext.sty
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.cfg
+File: microtype.cfg 2021/12/10 v3.0b microtype main configuration file (RS)
+))
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/blindtext\blindtext.sty
 Package: blindtext 2012/01/06 V2.0 blindtext-Package
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\tools\xspace.sty"
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/tools\xspace.sty
 Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 )
-\c@blindtext=\count177
-\c@Blindtext=\count178
-\c@blind@countparstart=\count179
-\blind@countxx=\count180
-\blindtext@numBlindtext=\count181
-\blind@countyy=\count182
-\c@blindlist=\count183
-\c@blindlistlevel=\count184
-\c@blindlist@level=\count185
-\blind@listitem=\count186
-\c@blind@listcount=\count187
-\c@blind@levelcount=\count188
-\blind@mathformula=\count189
-\blind@Mathformula=\count190
-\c@blind@randomcount=\count191
-\c@blind@randommax=\count192
-\c@blind@pangramcount=\count193
-\c@blind@pangrammax=\count194
+\c@blindtext=\count351
+\c@Blindtext=\count352
+\c@blind@countparstart=\count353
+\blind@countxx=\count354
+\blindtext@numBlindtext=\count355
+\blind@countyy=\count356
+\c@blindlist=\count357
+\c@blindlistlevel=\count358
+\c@blindlist@level=\count359
+\blind@listitem=\count360
+\c@blind@listcount=\count361
+\c@blind@levelcount=\count362
+\blind@mathformula=\count363
+\blind@Mathformula=\count364
+\c@blind@randomcount=\count365
+\c@blind@randommax=\count366
+\c@blind@pangramcount=\count367
+\c@blind@pangrammax=\count368
 )
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\latex\datetime\datetime.sty
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/datetime\datetime.sty
 Package: datetime 2015/03/20 v2.60 Date Time Package
 
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\latex\etoolbox\etoolbox.sty
-Package: etoolbox 2017/01/02 v2.4 e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count266
-)
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\latex\fmtcount\fmtcount.sty
-Package: fmtcount 2015/05/05 v3.01
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/fmtcount\fmtcount.sty
+Package: fmtcount 2020/01/30 v3.07
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty"
-Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.tex"
-("C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkvutils.tex"
-\XKV@toks=\toks34
-\XKV@tempa@toks=\toks35
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks36
+\XKV@tempa@toks=\toks37
 )
-\XKV@depth=\count267
+\XKV@depth=\count369
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\latex\fmtcount\fcprefix.sty
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/fmtcount\fcprefix.sty
 Package: fcprefix 2012/09/28
 
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\latex\fmtcount\fcnumparser.sty
-Package: fcnumparser 2012/09/28
-\fc@digit@counter=\count268
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/fmtcount\fcnumparser.st
+y
+Package: fcnumparser 2017/06/15
+\fc@digit@counter=\count370
 ))
-\c@padzeroesN=\count269
-\fc@tmpcatcode=\count270
-\@DT@modctr=\count271
-\@ordinalctr=\count272
-\@orgargctr=\count273
-\@strctr=\count274
-\@tmpstrctr=\count275
-\@DT@loopN=\count276
-\@DT@X=\count277
+\c@padzeroesN=\count371
+\fc@tmpcatcode=\count372
+\@DT@modctr=\count373
+\@ordinalctr=\count374
+\@orgargctr=\count375
+\@strctr=\count376
+\@tmpstrctr=\count377
+\@DT@loopN=\count378
+\@DT@X=\count379
 
 
 Package fmtcount Warning: \ordinal already defined use \FCordinal instead. on i
-nput line 516.
+nput line 466.
 
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\latex\fmtcount\fc-english.def
-File: fc-english.def 2013/08/17
-))
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\latex\datetime\datetime-default
-s.sty
+)
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/datetime\datetime-defau
+lts.sty
 Package: datetime-defaults 2013/09/10
 )
-\@day=\count278
-\@month=\count279
-\@year=\count280
-\c@HOUR=\count281
-\c@HOURXII=\count282
-\c@MINUTE=\count283
-\c@TOHOUR=\count284
-\c@TOMINUTE=\count285
-\c@SECOND=\count286
-\currenthour=\count287
-\currentminute=\count288
-\currentsecond=\count289
+\@day=\count380
+\@month=\count381
+\@year=\count382
+\c@HOUR=\count383
+\c@HOURXII=\count384
+\c@MINUTE=\count385
+\c@TOHOUR=\count386
+\c@TOMINUTE=\count387
+\c@SECOND=\count388
+\currenthour=\count389
+\currentminute=\count390
+\currentsecond=\count391
 Package datetime Info: No datetime.cfg file found, using default settings on in
 put line 308.
-\@dtctr=\count290
-\dayofyear=\count291
-\dayofweek=\count292
+\@dtctr=\count392
+\dayofyear=\count393
+\dayofweek=\count394
 LaTeX Info: Redefining \today on input line 736.
-\dt@a=\toks36
-\dt@b=\toks37
+\dt@a=\toks38
+\dt@b=\toks39
 )
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\latex\comment\comment.sty
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/comment\comment.sty
 \CommentStream=\write4
 
 Excluding comment 'comment')
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\latex\notoccite\notoccite.sty
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/notoccite\notoccite.sty
 Package: notoccite 2000/07/20
-)
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\color.sty"
-Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+) (C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/graphics\color.sty
+Package: color 2021/12/07 v1.3c Standard LaTeX Color (DPC)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg"
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
-Package color Info: Driver file: pdftex.def on input line 147.
-)
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\latex\xcolor\xcolor.sty
-Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+Package color Info: Driver file: pdftex.def on input line 149.
+) (C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg"
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
-Package xcolor Info: Driver file: pdftex.def on input line 225.
-LaTeX Info: Redefining \color on input line 709.
-Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
-Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
-Package xcolor Info: Model `RGB' extended on input line 1364.
-Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
-Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
-Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
-Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
-Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
-Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
-)
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\latex\titlesec\titletoc.sty
-Package: titletoc 2011/12/15 v1.6 TOC entries
-\ttl@leftsep=\dimen186
-)
-("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
-Package: hyperref 2016/06/24 v6.83q Hypertext links for LaTeX
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+LaTeX Info: Redefining \color on input line 711.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1352.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1356.
+Package xcolor Info: Model `RGB' extended on input line 1368.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1370.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
+) (C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titletoc.sty
+Package: titletoc 2021/07/05 v2.14 TOC entries
+\ttl@leftsep=\dimen280
+) (C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2021-06-07 v7.00m Hypertext links for LaTeX
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
-Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
-
-
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
-Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
-Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
-Package hobsub Info: Skipping package `infwarerr' (already loaded).
-Package hobsub Info: Skipping package `ltxcmds' (already loaded).
-Package hobsub Info: Skipping package `ifluatex' (already loaded).
-Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
-Package ifvtex Info: VTeX not detected.
-Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
-Package hobsub Info: Skipping package `ifpdf' (already loaded).
-Package hobsub Info: Skipping package `etexcmds' (already loaded).
-Package hobsub Info: Skipping package `kvsetkeys' (already loaded).
-Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
-Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
+.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
 )
-Package pdftexcmds Info: LuaTeX not detected.
+
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
+ty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
-Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
 )
-Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
-Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
+keys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
 )
-Package hobsub Info: Skipping package `hobsub' (already loaded).
-Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
-Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
-Package: xcolor-patch 2016/05/16 xcolor patch
-Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
-Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
-Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
-Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.s
+ty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty"
-Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacro
+.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
 )
-\@linkdim=\dimen187
-\Hy@linkcounter=\count293
-\Hy@pagecounter=\count294
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+\@linkdim=\dimen281
+\Hy@linkcounter=\count395
+\Hy@pagecounter=\count396
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
-File: pd1enc.def 2016/06/24 v6.83q Hyperref: PDFDocEncoding definition (HO)
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2021-06-07 v7.00m Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
 )
-\Hy@SavedSpaceFactor=\count295
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
-File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref-langp
+atches.def
+File: hyperref-langpatches.def 2021-06-07 v7.00m Hyperref: patches for babel la
+nguages
 )
-Package hyperref Info: Option `final' set `true' on input line 4362.
-Package hyperref Info: Hyper figures OFF on input line 4486.
-Package hyperref Info: Link nesting OFF on input line 4491.
-Package hyperref Info: Hyper index ON on input line 4494.
-Package hyperref Info: Plain pages OFF on input line 4501.
-Package hyperref Info: Backreferencing OFF on input line 4506.
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count397
+ (C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2021-06-07 v7.00m Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Option `final' set `true' on input line 4073.
+Package hyperref Info: Hyper figures OFF on input line 4192.
+Package hyperref Info: Link nesting OFF on input line 4197.
+Package hyperref Info: Hyper index ON on input line 4200.
+Package hyperref Info: Plain pages OFF on input line 4207.
+Package hyperref Info: Backreferencing OFF on input line 4212.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4735.
-\c@Hy@tempcnt=\count296
+Package hyperref Info: Bookmarks ON on input line 4445.
+\c@Hy@tempcnt=\count398
 
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\latex\url\url.sty
-\Urlmuskip=\muskip11
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 5088.
-\XeTeXLinkMargin=\dimen188
-\Fld@menulength=\count297
-\Field@Width=\dimen189
-\Fld@charsize=\dimen190
-Package hyperref Info: Hyper figures OFF on input line 6342.
-Package hyperref Info: Link nesting OFF on input line 6347.
-Package hyperref Info: Hyper index ON on input line 6350.
-Package hyperref Info: backreferencing OFF on input line 6357.
-Package hyperref Info: Link coloring OFF on input line 6362.
-Package hyperref Info: Link coloring with OCG OFF on input line 6367.
-Package hyperref Info: PDF/A mode OFF on input line 6372.
-LaTeX Info: Redefining \ref on input line 6412.
-LaTeX Info: Redefining \pageref on input line 6416.
-\Hy@abspage=\count298
-\c@Item=\count299
-\c@Hfootnote=\count300
+LaTeX Info: Redefining \url on input line 4804.
+\XeTeXLinkMargin=\dimen282
+
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc
+.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\latex\memoir\memhfixc.sty
-Package: memhfixc 2013/05/30 v1.17 nameref/hyperref package fixes for memoir cl
+))
+\Fld@menulength=\count399
+\Field@Width=\dimen283
+\Fld@charsize=\dimen284
+Package hyperref Info: Hyper figures OFF on input line 6076.
+Package hyperref Info: Link nesting OFF on input line 6081.
+Package hyperref Info: Hyper index ON on input line 6084.
+Package hyperref Info: backreferencing OFF on input line 6091.
+Package hyperref Info: Link coloring OFF on input line 6096.
+Package hyperref Info: Link coloring with OCG OFF on input line 6101.
+Package hyperref Info: PDF/A mode OFF on input line 6106.
+LaTeX Info: Redefining \ref on input line 6146.
+LaTeX Info: Redefining \pageref on input line 6150.
+
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count400
+\c@Item=\count401
+\c@Hfootnote=\count402
+) (C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/memoir\memhfixc.sty
+Package: memhfixc 2021/06/16 v1.19 nameref/hyperref package fixes for memoir cl
 ass
-\c@memhycontfloat=\count301
-\c@Hpagenote=\count302
+
+
+LaTeX hooks Warning: Generic hook 'package/after/nameref' is deprecated.
+(hooks)              Use hook 'package/nameref/after' instead.
+
+\c@memhycontfloat=\count403
+\c@Hpagenote=\count404
+
+LaTeX hooks Warning: Generic hook 'package/after/hypcap' is deprecated.
+(hooks)              Use hook 'package/hypcap/after' instead.
+
 )
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2021-06-07 v7.00m Hyperref driver for pdfTeX
 
-Package hyperref Message: Driver (autodetected): hpdftex.
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count405
+\c@bookmark@seq@number=\count406
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
-File: hpdftex.def 2016/06/24 v6.83q Hyperref driver for pdfTeX
-\Fld@listcount=\count303
-\c@bookmark@seq@number=\count304
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
+echeck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
-Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquec
+ounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
-82.
+85.
 )
-\Hy@SectionHShift=\skip265
+\Hy@SectionHShift=\skip266
 )
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\latex\pdfpages\pdfpages.sty
-Package: pdfpages 2017/01/14 v0.5h Insert pages of external PDF documents (AM)
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pdfpages.sty
+Package: pdfpages 2022/12/19 v0.5x Insert pages of external PDF documents (AM)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\tools\calc.sty"
-Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count305
-\calc@Bcount=\count306
-\calc@Adimen=\dimen191
-\calc@Bdimen=\dimen192
-\calc@Askip=\skip266
-\calc@Bskip=\skip267
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count407
+\calc@Bcount=\count408
+\calc@Adimen=\dimen285
+\calc@Bdimen=\dimen286
+\calc@Askip=\skip267
+\calc@Bskip=\skip268
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count307
-\calc@Cskip=\skip268
+\calc@Ccount=\count409
+\calc@Cskip=\skip269
 )
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\latex\eso-pic\eso-pic.sty
-Package: eso-pic 2015/07/21 v2.0g eso-pic (RN)
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/eso-pic\eso-pic.sty
+Package: eso-pic 2023/05/03 v3.0c eso-pic (RN)
+\ESO@tempdima=\dimen287
+\ESO@tempdimb=\dimen288
 )
-\AM@pagewidth=\dimen193
-\AM@pageheight=\dimen194
+\AM@pagewidth=\dimen289
+\AM@pageheight=\dimen290
+\AM@fboxrule=\dimen291
 
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\latex\pdfpages\pppdftex.def
-File: pppdftex.def 2017/01/14 v0.5h Pdfpages driver for pdfTeX (AM)
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pppdftex.def
+File: pppdftex.def 2022/12/19 v0.5x Pdfpages driver for pdfTeX (AM)
 )
-\AM@pagebox=\box65
-\AM@global@opts=\toks38
-\AM@toc@title=\toks39
-\c@AM@survey=\count308
-\AM@templatesizebox=\box66
+\pdfpages@includegraphics@status=\count410
+\AM@pagebox=\box112
+\AM@global@opts=\toks40
+\AM@pagecnt=\count411
+\AM@toc@title=\toks41
+\AM@lof@heading=\toks42
+\c@AM@survey=\count412
+\AM@templatesizebox=\box113
 )
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\latex\algorithms\algorithmic.st
-y
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/algorithms\algorithmic.
+sty
 Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
-\c@ALC@unique=\count309
-\c@ALC@line=\count310
-\c@ALC@rem=\count311
-\c@ALC@depth=\count312
-\ALC@tlm=\skip269
-\algorithmicindent=\skip270
+\c@ALC@unique=\count413
+\c@ALC@line=\count414
+\c@ALC@rem=\count415
+\c@ALC@depth=\count416
+\ALC@tlm=\skip270
+\algorithmicindent=\skip271
 )
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\frontendlayer\tikz.st
-y (C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\basiclayer\pgf.sty
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\utilities\pgfrcs.sty
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfutil-c
-ommon.tex
-\pgfutil@everybye=\toks40
-\pgfutil@tempdima=\dimen256
-\pgfutil@tempdimb=\dimen257
-
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfutil-c
-ommon-lists.tex))
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfutil-l
-atex.def
-\pgfutil@abb=\box67
- (C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\latex\ms\everyshi.sty
-Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
-))
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfrcs.co
-de.tex
-Package: pgfrcs 2015/08/07 v3.0.1a (rcs-revision 1.31)
-))
-Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
-
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\basiclayer\pgfcore.st
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.
+sty
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.st
 y
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\systemlayer\pgfsys.st
-y
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsys.
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+-common.tex
+\pgfutil@everybye=\toks43
+\pgfutil@tempdima=\dimen292
+\pgfutil@tempdimb=\dimen293
+
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+-common-lists.tex))
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+-latex.def
+\pgfutil@abb=\box114
+)
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.
 code.tex
-Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
-
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfkeys.c
-ode.tex
-\pgfkeys@pathtoks=\toks41
-\pgfkeys@temptoks=\toks42
-
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfkeysfi
-ltered.code.tex
-\pgfkeys@tmptoks=\toks43
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
 ))
-\pgf@x=\dimen258
-\pgf@y=\dimen259
-\pgf@xa=\dimen260
-\pgf@ya=\dimen261
-\pgf@xb=\dimen262
-\pgf@yb=\dimen263
-\pgf@xc=\dimen264
-\pgf@yc=\dimen265
-\w@pgf@writea=\write5
-\r@pgf@reada=\read2
-\c@pgf@counta=\count313
-\c@pgf@countb=\count314
-\c@pgf@countc=\count315
-\c@pgf@countd=\count316
-\t@pgf@toka=\toks44
-\t@pgf@tokb=\toks45
-\t@pgf@tokc=\toks46
+Package: pgf 2021/05/15 v3.1.9a (3.1.9a)
 
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgf.cfg
-File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.
+sty
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.
+sty
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s.code.tex
+Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+.code.tex
+\pgfkeys@pathtoks=\toks44
+\pgfkeys@temptoks=\toks45
+
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+filtered.code.tex
+\pgfkeys@tmptoks=\toks46
+))
+\pgf@x=\dimen294
+\pgf@y=\dimen295
+\pgf@xa=\dimen296
+\pgf@ya=\dimen297
+\pgf@xb=\dimen298
+\pgf@yb=\dimen299
+\pgf@xc=\dimen300
+\pgf@yc=\dimen301
+\pgf@xd=\dimen302
+\pgf@yd=\dimen303
+\w@pgf@writea=\write5
+\r@pgf@reada=\read3
+\c@pgf@counta=\count417
+\c@pgf@countb=\count418
+\c@pgf@countc=\count419
+\c@pgf@countd=\count420
+\t@pgf@toka=\toks47
+\t@pgf@tokb=\toks48
+\t@pgf@tokc=\toks49
+\pgf@sys@id@count=\count421
+
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.c
+fg
+File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
 )
 Driver file for pgf: pgfsys-pdftex.def
 
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsys-
-pdftex.def
-File: pgfsys-pdftex.def 2014/10/11  (rcs-revision 1.35)
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s-pdftex.def
+File: pgfsys-pdftex.def 2021/05/15 v3.1.9a (3.1.9a)
 
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsys-
-common-pdf.def
-File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s-common-pdf.def
+File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
 )))
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsyss
-oftpath.code.tex
-File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
-\pgfsyssoftpath@smallbuffer@items=\count317
-\pgfsyssoftpath@bigbuffer@items=\count318
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+ssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfsyssoftpath@smallbuffer@items=\count422
+\pgfsyssoftpath@bigbuffer@items=\count423
 )
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsysp
-rotocol.code.tex
-File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+sprotocol.code.tex
+File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 ))
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcore.
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+e.code.tex
+Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
+.tex
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.
 code.tex
-Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.
+code.tex)
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparse
+r.code.tex
+\pgfmath@dimen=\dimen304
+\pgfmath@count=\count424
+\pgfmath@box=\box115
+\pgfmath@toks=\toks50
+\pgfmath@stack@operand=\toks51
+\pgfmath@stack@operation=\toks52
+)
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.code.tex
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.basic.code.tex)
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.trigonometric.code.tex)
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.random.code.tex)
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.comparison.code.tex)
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.base.code.tex)
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.round.code.tex)
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.misc.code.tex)
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.integerarithmetics.code.tex)))
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat
+.code.tex
+\c@pgfmathroundto@lastzeros=\count425
+))
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.
+tex)
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epoints.code.tex
+File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@picminx=\dimen305
+\pgf@picmaxx=\dimen306
+\pgf@picminy=\dimen307
+\pgf@picmaxy=\dimen308
+\pgf@pathminx=\dimen309
+\pgf@pathmaxx=\dimen310
+\pgf@pathminy=\dimen311
+\pgf@pathmaxy=\dimen312
+\pgf@xx=\dimen313
+\pgf@xy=\dimen314
+\pgf@yx=\dimen315
+\pgf@yy=\dimen316
+\pgf@zx=\dimen317
+\pgf@zy=\dimen318
+)
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@path@lastx=\dimen319
+\pgf@path@lasty=\dimen320
+)
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathusage.code.tex
+File: pgfcorepathusage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@shorten@end@additional=\dimen321
+\pgf@shorten@start@additional=\dimen322
+)
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+escopes.code.tex
+File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfpic=\box116
+\pgf@hbox=\box117
+\pgf@layerbox@main=\box118
+\pgf@picture@serial@count=\count426
+)
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+egraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgflinewidth=\dimen323
+)
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+etransformations.code.tex
+File: pgfcoretransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@pt@x=\dimen324
+\pgf@pt@y=\dimen325
+\pgf@pt@temp=\dimen326
+)
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+equick.code.tex
+File: pgfcorequick.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eobjects.code.tex
+File: pgfcoreobjects.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+earrows.code.tex
+File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfarrowsep=\dimen327
+)
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eshade.code.tex
+File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@max=\dimen328
+\pgf@sys@shading@range@num=\count427
+\pgf@shadingcount=\count428
+)
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eimage.code.tex
+File: pgfcoreimage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmath.code.t
-ex
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathcalc.co
-de.tex
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathutil.co
-de.tex)
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathparser.
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eexternal.code.tex
+File: pgfcoreexternal.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfexternal@startupbox=\box119
+))
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+elayers.code.tex
+File: pgfcorelayers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+etransparency.code.tex
+File: pgfcoretransparency.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epatterns.code.tex
+File: pgfcorepatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+erdf.code.tex
+File: pgfcorerdf.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+shapes.code.tex
+File: pgfmoduleshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfnodeparttextbox=\box120
+)
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+plot.code.tex
+File: pgfmoduleplot.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
+mp-version-0-65.sty
+Package: pgfcomp-version-0-65 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@nodesepstart=\dimen329
+\pgf@nodesepend=\dimen330
+)
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
+mp-version-1-18.sty
+Package: pgfcomp-version-1-18 2021/05/15 v3.1.9a (3.1.9a)
+))
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.st
+y
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.s
+ty
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+.code.tex))
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
+.tex))
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.
 code.tex
-\pgfmath@dimen=\dimen266
-\pgfmath@count=\count319
-\pgfmath@box=\box68
-\pgfmath@toks=\toks47
-\pgfmath@stack@operand=\toks48
-\pgfmath@stack@operation=\toks49
-)
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunctio
-ns.code.tex
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunctio
-ns.basic.code.tex)
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunctio
-ns.trigonometric.code.tex)
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunctio
-ns.random.code.tex)
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunctio
-ns.comparison.code.tex)
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunctio
-ns.base.code.tex)
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunctio
-ns.round.code.tex)
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunctio
-ns.misc.code.tex)
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunctio
-ns.integerarithmetics.code.tex)))
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfloat.c
-ode.tex
-\c@pgfmathroundto@lastzeros=\count320
-))
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorep
-oints.code.tex
-File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
-\pgf@picminx=\dimen267
-\pgf@picmaxx=\dimen268
-\pgf@picminy=\dimen269
-\pgf@picmaxy=\dimen270
-\pgf@pathminx=\dimen271
-\pgf@pathmaxx=\dimen272
-\pgf@pathminy=\dimen273
-\pgf@pathmaxy=\dimen274
-\pgf@xx=\dimen275
-\pgf@xy=\dimen276
-\pgf@yx=\dimen277
-\pgf@yy=\dimen278
-\pgf@zx=\dimen279
-\pgf@zy=\dimen280
-)
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorep
-athconstruct.code.tex
-File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
-\pgf@path@lastx=\dimen281
-\pgf@path@lasty=\dimen282
-)
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorep
-athusage.code.tex
-File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
-\pgf@shorten@end@additional=\dimen283
-\pgf@shorten@start@additional=\dimen284
-)
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcores
-copes.code.tex
-File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
-\pgfpic=\box69
-\pgf@hbox=\box70
-\pgf@layerbox@main=\box71
-\pgf@picture@serial@count=\count321
-)
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoreg
-raphicstate.code.tex
-File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
-\pgflinewidth=\dimen285
-)
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoret
-ransformations.code.tex
-File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
-\pgf@pt@x=\dimen286
-\pgf@pt@y=\dimen287
-\pgf@pt@temp=\dimen288
-)
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoreq
-uick.code.tex
-File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
-)
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoreo
-bjects.code.tex
-File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
-)
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorep
-athprocessing.code.tex
-File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
-)
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorea
-rrows.code.tex
-File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
-\pgfarrowsep=\dimen289
-)
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcores
-hade.code.tex
-File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
-\pgf@max=\dimen290
-\pgf@sys@shading@range@num=\count322
-)
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorei
-mage.code.tex
-File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
+Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
 
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoree
-xternal.code.tex
-File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
-\pgfexternal@startupbox=\box72
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
+.tex)
+\pgffor@iter=\dimen331
+\pgffor@skip=\dimen332
+\pgffor@stack=\toks53
+\pgffor@toks=\toks54
 ))
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorel
-ayers.code.tex
-File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z\tikz.code.tex
+Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@plot@mark@count=\count429
+\pgfplotmarksize=\dimen333
 )
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoret
-ransparency.code.tex
-File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
+\tikz@lastx=\dimen334
+\tikz@lasty=\dimen335
+\tikz@lastxsaved=\dimen336
+\tikz@lastysaved=\dimen337
+\tikz@lastmovetox=\dimen338
+\tikz@lastmovetoy=\dimen339
+\tikzleveldistance=\dimen340
+\tikzsiblingdistance=\dimen341
+\tikz@figbox=\box121
+\tikz@figbox@bg=\box122
+\tikz@tempbox=\box123
+\tikz@tempbox@bg=\box124
+\tikztreelevel=\count430
+\tikznumberofchildren=\count431
+\tikznumberofcurrentchild=\count432
+\tikz@fig@count=\count433
+
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+matrix.code.tex
+File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfmatrixcurrentrow=\count434
+\pgfmatrixcurrentcolumn=\count435
+\pgf@matrix@numberofcolumns=\count436
 )
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorep
-atterns.code.tex
-File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
+\tikz@expandcount=\count437
+
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )))
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\modules\pgfmodulesh
-apes.code.tex
-File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
-\pgfnodeparttextbox=\box73
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/generic/alphalph\alphalph.sty
+Package: alphalph 2019/12/09 v2.6 Convert numbers to letters (HO)
+) (C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
+\lst@mode=\count438
+\lst@gtempboxa=\box125
+\lst@token=\toks55
+\lst@length=\count439
+\lst@currlwidth=\dimen342
+\lst@column=\count440
+\lst@pos=\count441
+\lst@lostspace=\dimen343
+\lst@width=\dimen344
+\lst@newlines=\count442
+\lst@lineno=\count443
+\lst@maxwidth=\dimen345
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count444
+\lst@skipnumbers=\count445
+\lst@framebox=\box126
 )
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\modules\pgfmodulepl
-ot.code.tex
-File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
-)
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\compatibility\pgfcomp
--version-0-65.sty
-Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
-\pgf@nodesepstart=\dimen291
-\pgf@nodesepend=\dimen292
-)
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\compatibility\pgfcomp
--version-1-18.sty
-Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
 ))
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\utilities\pgffor.sty
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\utilities\pgfkeys.sty
-
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfkeys.c
-ode.tex))
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\math\pgfmath.sty
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmath.code.t
-ex))
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgffor.co
-de.tex
-Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
-
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmath.code.t
-ex)
-\pgffor@iter=\dimen293
-\pgffor@skip=\dimen294
-\pgffor@stack=\toks50
-\pgffor@toks=\toks51
-))
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\frontendlayer\tikz\
-tikz.code.tex
-Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
-
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\libraries\pgflibrar
-yplothandlers.code.tex
-File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
-\pgf@plot@mark@count=\count323
-\pgfplotmarksize=\dimen295
-)
-\tikz@lastx=\dimen296
-\tikz@lasty=\dimen297
-\tikz@lastxsaved=\dimen298
-\tikz@lastysaved=\dimen299
-\tikzleveldistance=\dimen300
-\tikzsiblingdistance=\dimen301
-\tikz@figbox=\box74
-\tikz@figbox@bg=\box75
-\tikz@tempbox=\box76
-\tikz@tempbox@bg=\box77
-\tikztreelevel=\count324
-\tikznumberofchildren=\count325
-\tikznumberofcurrentchild=\count326
-\tikz@fig@count=\count327
-
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\modules\pgfmodulema
-trix.code.tex
-File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
-\pgfmatrixcurrentrow=\count328
-\pgfmatrixcurrentcolumn=\count329
-\pgf@matrix@numberofcolumns=\count330
-)
-\tikz@expandcount=\count331
-
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\frontendlayer\tikz\
-libraries\tikzlibrarytopaths.code.tex
-File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
-)))
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\alphalph.sty"
-Package: alphalph 2016/05/16 v2.5 Convert numbers to letters (HO)
-)
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\listings.sty
-\lst@mode=\count332
-\lst@gtempboxa=\box78
-\lst@token=\toks52
-\lst@length=\count333
-\lst@currlwidth=\dimen302
-\lst@column=\count334
-\lst@pos=\count335
-\lst@lostspace=\dimen303
-\lst@width=\dimen304
-\lst@newlines=\count336
-\lst@lineno=\count337
-\lst@maxwidth=\dimen305
-
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstmisc.sty
-File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
-\c@lstnumber=\count338
-\lst@skipnumbers=\count339
-\lst@framebox=\box79
-)
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\listings.cfg
-File: listings.cfg 2015/06/04 1.6 listings configuration
-))
-Package: listings 2015/06/04 1.6 (Carsten Heinz)
-\c@subfigure=\count340
-\cftbeforesubfigureskip=\skip271
-\cftsubfigureindent=\skip272
-\cftsubfigurenumwidth=\skip273
-)
-(format/postamble.ltx
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+\c@subfigure=\count446
+\cftbeforesubfigureskip=\skip272
+\cftsubfigureindent=\skip273
+\cftsubfigurenumwidth=\skip274
+) (format/postamble.ltx
 \document@idxfile=\write6
 \openout6 = `document.idx'.
 
 
 Writing index file document.idx 
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\latex\datatool\datagidx.sty
-Package: datagidx 2016/07/28 v2.27 (NLCT)
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/datatool\datagidx.sty
+Package: datagidx 2019/09/27 v2.32 (NLCT)
 
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\latex\datatool\datatool.sty
-Package: datatool 2016/07/28 v2.27 (NLCT)
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/datatool\datatool.sty
+Package: datatool 2019/09/27 v2.32 (NLCT)
 
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\latex\xfor\xfor.sty
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/xfor\xfor.sty
 Package: xfor 2009/02/05 v1.05 (NLCT)
 )
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\latex\substr\substr.sty
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/substr\substr.sty
 Package: substr 2009/10/20 v1.2 Handle substrings
-\c@su@anzahl=\count341
+\c@su@anzahl=\count447
 )
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\latex\datatool\datatool-base.st
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/datatool\datatool-base.
+sty
+Package: datatool-base 2019/09/27 v2.32 (NLCT)
+
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/datatool\datatool-fp.st
 y
-Package: datatool-base 2016/07/28 v2.27 (NLCT)
-
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\latex\datatool\datatool-fp.sty
-Package: datatool-fp 2016/07/28 v2.27 (NLCT)
-
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\latex\fp\fp.sty
+Package: datatool-fp 2019/09/27 v2.32 (NLCT)
+ (C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp.sty
 Package: fp 1995/04/02
 
 `Fixed Point Package', Version 0.8, April 2, 1995 (C) Michael Mehlich
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\latex\fp\defpattern.sty
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/fp\defpattern.sty
 Package: defpattern 1994/10/12
-\actioncount=\count342
+\actioncount=\count448
 )
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\latex\fp\fp-basic.sty
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-basic.sty
 Package: fp-basic 1996/05/13
-\FP@xs=\count343
-\FP@xia=\count344
-\FP@xib=\count345
-\FP@xfa=\count346
-\FP@xfb=\count347
-\FP@rega=\count348
-\FP@regb=\count349
-\FP@regs=\count350
-\FP@times=\count351
+\FP@xs=\count449
+\FP@xia=\count450
+\FP@xib=\count451
+\FP@xfa=\count452
+\FP@xfb=\count453
+\FP@rega=\count454
+\FP@regb=\count455
+\FP@regs=\count456
+\FP@times=\count457
 )
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\latex\fp\fp-addons.sty
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-addons.sty
 Package: fp-addons 1995/03/15
 )
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\latex\fp\fp-snap.sty
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-snap.sty
 Package: fp-snap 1995/04/05
 )
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\latex\fp\fp-exp.sty
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-exp.sty
 Package: fp-exp 1995/04/03
 )
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\latex\fp\fp-trigo.sty
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-trigo.sty
 Package: fp-trigo 1995/04/14
 )
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\latex\fp\fp-pas.sty
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-pas.sty
 Package: fp-pas 1994/08/29
 )
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\latex\fp\fp-random.sty
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-random.sty
 Package: fp-random 1995/02/23
-\FPseed=\count352
+\FPseed=\count458
 )
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\latex\fp\fp-eqn.sty
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-eqn.sty
 Package: fp-eqn 1995/04/03
 )
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\latex\fp\fp-upn.sty
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-upn.sty
 Package: fp-upn 1996/10/21
 )
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\latex\fp\fp-eval.sty
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-eval.sty
 Package: fp-eval 1995/04/03
 )))
-\@dtl@toks=\toks53
-\@dtl@tmpcount=\count353
-\dtl@tmplength=\skip274
-\dtl@sortresult=\count354
-\@dtl@numgrpsepcount=\count355
-\@dtl@datatype=\count356
-\dtl@codeA=\count357
-\dtl@codeB=\count358
-\@dtl@foreach@level=\count359
+\@dtl@toks=\toks56
+\@dtl@tmpcount=\count459
+\dtl@tmplength=\skip275
+\dtl@sortresult=\count460
+\@dtl@numgrpsepcount=\count461
+\@dtl@datatype=\count462
+\dtl@codeA=\count463
+\dtl@codeB=\count464
+\@dtl@foreach@level=\count465
 )
-\dtlcolumnnum=\count360
-\dtlrownum=\count361
-\@dtl@before=\toks54
-\@dtl@after=\toks55
-\@dtl@colhead=\toks56
-\dtlcurrentrow=\toks57
-\dtlbeforerow=\toks58
-\dtlafterrow=\toks59
-\dtlforeachlevel=\count362
-\c@DTLrowi=\count363
-\c@DTLrowii=\count364
-\c@DTLrowiii=\count365
-\c@DTLrow=\count366
-\dtl@rowi=\count367
-\dtl@rowii=\count368
-\dtl@rowiii=\count369
-\@dtl@curi=\toks60
-\@dtl@previ=\toks61
-\@dtl@nexti=\toks62
-\@dtl@curii=\toks63
-\@dtl@previi=\toks64
-\@dtl@nextii=\toks65
-\@dtl@curiii=\toks66
-\@dtl@previii=\toks67
-\@dtl@nextiii=\toks68
-\@dtl@elements=\count370
-\@dtl@list=\toks69
-\@dtl@rowa=\toks70
-\@dtl@rowb=\toks71
-\@dtl@toksA=\toks72
-\@dtl@toksB=\toks73
+\dtlcolumnnum=\count466
+\dtlrownum=\count467
+\@dtl@before=\toks57
+\@dtl@after=\toks58
+\@dtl@colhead=\toks59
+\dtlcurrentrow=\toks60
+\dtlbeforerow=\toks61
+\dtlafterrow=\toks62
+\dtlforeachlevel=\count468
+\c@DTLrowi=\count469
+\c@DTLrowii=\count470
+\c@DTLrowiii=\count471
+\c@DTLrow=\count472
+\dtl@rowi=\count473
+\dtl@rowii=\count474
+\dtl@rowiii=\count475
+\@dtl@curi=\toks63
+\@dtl@previ=\toks64
+\@dtl@nexti=\toks65
+\@dtl@curii=\toks66
+\@dtl@previi=\toks67
+\@dtl@nextii=\toks68
+\@dtl@curiii=\toks69
+\@dtl@previii=\toks70
+\@dtl@nextiii=\toks71
+\@dtl@elements=\count476
+\@dtl@list=\toks72
+\@dtl@rowa=\toks73
+\@dtl@rowb=\toks74
+\@dtl@toksA=\toks75
+\@dtl@toksB=\toks76
 \@dtl@write=\write7
-\@dtl@read=\read3
-\dtl@entrycr=\count371
-\dtl@omitlines=\count372
+\@dtl@read=\read4
+\dtl@entrycr=\count477
+\dtl@omitlines=\count478
 )
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\latex\mfirstuc\mfirstuc.sty
-Package: mfirstuc 2016/07/31 v2.04 (NLCT)
-\@glsmfirst=\toks74
-\@glsmrest=\toks75
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/mfirstuc\mfirstuc.sty
+Package: mfirstuc 2022/10/14 v2.08 (NLCT)
+\@glsmfirst=\toks77
+\@glsmrest=\toks78
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\tools\afterpage.sty"
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/tools\afterpage.sty
 Package: afterpage 2014/10/28 v1.08 After-Page Package (DPC)
-\AP@output=\toks76
-\AP@partial=\box80
-\AP@footins=\box81
+\AP@output=\toks79
+\AP@partial=\box127
+\AP@footins=\box128
 )
-\c@DTLgidxChildCount=\count373
-\datagidxsymbolwidth=\skip275
-\datagidxlocationwidth=\skip276
-\dtldb@datagidx=\toks77
-\dtlkeys@datagidx=\toks78
-\dtlrows@datagidx=\count374
-\dtlcols@datagidx=\count375
-\datagidxindent=\skip277
-\datagidxnamewidth=\skip278
-\datagidxdescwidth=\skip279
-\datagidx@anchorcount=\count376
-\datagidx@count=\count377
-\datagidx@level=\count378
+\c@DTLgidxChildCount=\count479
+\datagidxsymbolwidth=\skip276
+\datagidxlocationwidth=\skip277
+\dtldb@datagidx=\toks80
+\dtlkeys@datagidx=\toks81
+\dtlrows@datagidx=\count480
+\dtlcols@datagidx=\count481
+\datagidxindent=\skip278
+\datagidxnamewidth=\skip279
+\datagidxdescwidth=\skip280
+\datagidx@anchorcount=\count482
+\datagidx@count=\count483
+\datagidx@level=\count484
 )
-\dtldb@abbreviation=\toks79
-\dtlkeys@abbreviation=\toks80
-\dtlrows@abbreviation=\count379
-\dtlcols@abbreviation=\count380
-\dtldb@notation=\toks81
-\dtlkeys@notation=\toks82
-\dtlrows@notation=\count381
-\dtlcols@notation=\count382
-\dtldb@glossary=\toks83
-\dtlkeys@glossary=\toks84
-\dtlrows@glossary=\count383
-\dtlcols@glossary=\count384
+\dtldb@abbreviation=\toks82
+\dtlkeys@abbreviation=\toks83
+\dtlrows@abbreviation=\count485
+\dtlcols@abbreviation=\count486
+\dtldb@notation=\toks84
+\dtlkeys@notation=\toks85
+\dtlrows@notation=\count487
+\dtlcols@notation=\count488
+\dtldb@glossary=\toks86
+\dtlkeys@glossary=\toks87
+\dtlrows@glossary=\count489
+\dtlcols@glossary=\count490
 
 (abbreviation.tex) (notation.tex) (glossary.tex)
 Package hyperref Info: Option `breaklinks' set `true' on input line 58.
 Package hyperref Info: Option `colorlinks' set `true' on input line 58.
 Package hyperref Info: Option `bookmarksopen' set `true' on input line 58.
 
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\latex\wallpaper\wallpaper.sty
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/wallpaper\wallpaper.sty
 Package: wallpaper 2005/01/18, v1.01 easy wallpaper formatting (MHFW)
-\wpXoffset=\skip280
-\wpYoffset=\skip281
-\tileXoffset=\skip282
-\tileYoffset=\skip283
-\tilewidth=\skip284
-\tileheight=\skip285
-\tileX=\skip286
-\tileY=\skip287
+\wpXoffset=\skip281
+\wpYoffset=\skip282
+\tileXoffset=\skip283
+\tileYoffset=\skip284
+\tilewidth=\skip285
+\tileheight=\skip286
+\tileX=\skip287
+\tileY=\skip288
+) (C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
-Package: geometry 2010/09/12 v5.6 Page Geometry
-\Gm@cnth=\count385
-\Gm@cntv=\count386
-\c@Gm@tempcnt=\count387
-\Gm@bindingoffset=\dimen306
-\Gm@wd@mp=\dimen307
-\Gm@odd@mp=\dimen308
-\Gm@even@mp=\dimen309
-\Gm@layoutwidth=\dimen310
-\Gm@layoutheight=\dimen311
-\Gm@layouthoffset=\dimen312
-\Gm@layoutvoffset=\dimen313
-\Gm@dimlist=\toks85
+\Gm@cnth=\count491
+\Gm@cntv=\count492
+\c@Gm@tempcnt=\count493
+\Gm@bindingoffset=\dimen346
+\Gm@wd@mp=\dimen347
+\Gm@odd@mp=\dimen348
+\Gm@even@mp=\dimen349
+\Gm@layoutwidth=\dimen350
+\Gm@layoutheight=\dimen351
+\Gm@layouthoffset=\dimen352
+\Gm@layoutvoffset=\dimen353
+\Gm@dimlist=\toks88
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))) (document.aux
-(introduction.aux) (literature_review.aux) (theoretical_considerations.aux)
-(design_considerations.aux) (methodology.aux) (results_and_discussion.aux)
-(conclusions.aux) (answers_to_questions.aux) (usage_examples.aux)
-(publication.aux) (vita.aux))
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+)
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 1
+31.
+ (C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2021-12-14 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count494
+\l__pdf_internal_box=\box129
+) (document.aux (literature_review.aux))
 \openout1 = `document.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 131.
 LaTeX Font Info:    ... okay on input line 131.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 131.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 131.
 LaTeX Font Info:    ... okay on input line 131.
 LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 131.
 LaTeX Font Info:    ... okay on input line 131.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 131.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 131.
+LaTeX Font Info:    ... okay on input line 131.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 131.
 LaTeX Font Info:    ... okay on input line 131.
 LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 131.
 LaTeX Font Info:    ... okay on input line 131.
@@ -1531,66 +1620,72 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 131.
 LaTeX Font Info:    ... okay on input line 131.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 131.
 LaTeX Font Info:    ... okay on input line 131.
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 131.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 131.
+LaTeX Font Info:    ... okay on input line 131.
 
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
-File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
-)
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count388
-\scratchdimen=\dimen314
-\scratchbox=\box82
-\nofMPsegments=\count389
-\nofMParguments=\count390
-\everyMPshowfont=\toks86
-\MPscratchCnt=\count391
-\MPscratchDim=\dimen315
-\MPnumerator=\count392
-\makeMPintoPDFobject=\count393
-\everyMPtoPDFconversion=\toks87
-) ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
-Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
-Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+\scratchcounter=\count495
+\scratchdimen=\dimen354
+\scratchbox=\box130
+\nofMPsegments=\count496
+\nofMParguments=\count497
+\everyMPshowfont=\toks89
+\MPscratchCnt=\count498
+\MPscratchDim=\dimen355
+\MPnumerator=\count499
+\makeMPintoPDFobject=\count500
+\everyMPtoPDFconversion=\toks90
 )
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-38.
-Package grfext Info: Graphics extension search list:
-(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
-G,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 456.
-)
+85.
+
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: listings package is loaded.
 Package caption Info: End \AtBeginDocument code.
 LaTeX Info: Redefining \microtypecontext on input line 131.
+Package microtype Info: Applying patch `item' on input line 131.
+Package microtype Info: Applying patch `toc' on input line 131.
+Package microtype Info: Applying patch `eqnum' on input line 131.
+Package microtype Info: Applying patch `footnote' on input line 131.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
-Package microtype Info: Using default expansion set `basictext'.
+Package microtype Info: Using default expansion set `alltext-nott'.
+LaTeX Info: Redefining \showhyphens on input line 131.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
 
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\latex\microtype\mt-ptm.cfg
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-ptm.cfg
 File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
 )
-\AtBeginShipoutBox=\box83
-Package hyperref Info: Link coloring ON on input line 131.
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
-Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
-
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
-Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/fmtcount\fc-english.def
+File: fc-english.def 2016/01/12
 )
-\c@section@level=\count394
+Package hyperref Info: Link coloring ON on input line 131.
+ (C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettit
+lestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count501
 )
 Redoing nameref's sectioning
 Redoing nameref's label
@@ -1602,8 +1697,7 @@ LaTeX Info: Redefining \nameref on input line 131.
 \@outlinefile=\write8
 \openout8 = `document.out'.
 
- ABD: EveryShipout initializing macros
-\c@lstlisting=\count395
+\c@lstlisting=\count502
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1640,1553 +1734,226 @@ LaTeX Info: Redefining \nameref on input line 131.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 (format/pre_toc.ltx (format/titlep.ltx
-<figure/../format/DLSU_Logo.png, id=202, 158.994pt x 158.994pt>
-File: figure/../format/DLSU_Logo.png Graphic file (type png)
+<figure//../format/DLSU_Logo.png, id=26, 158.994pt x 158.994pt>
+File: figure//../format/DLSU_Logo.png Graphic file (type png)
+<use figure//../format/DLSU_Logo.png>
+Package pdftex.def Info: figure//../format/DLSU_Logo.png  used on input line 7.
 
-<use figure/../format/DLSU_Logo.png>
-Package pdftex.def Info: figure/../format/DLSU_Logo.png used on input line 7.
 (pdftex.def)             Requested size: 60.10902pt x 60.1078pt.
  [1
 
-{C:/Users/cobalt/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./figure/.
-./format/DLSU_Logo.png>])
-(format/defense.ltx
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 90.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 96.
+{C:/Users/jeodo/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./figure//..
+/format/DLSU_Logo.png>]))
+LaTeX Font Info:    Trying to load font information for OT1+phv on input line 2
+04.
 
-Underfull \hbox (badness 10000) in paragraph at lines 95--99
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 107--111
-
- []
-
-
-<figure/../format/dlsu_thesis_paper_letterhead.pdf, id=211, 614.295pt x 794.97p
-t>
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
- <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 124.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [2
-
- <./figure/../format/dlsu_thesis_paper_letterhead.pdf>]) (format/approval.ltx
-Underfull \hbox (badness 10000) in paragraph at lines 88--90
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 97--101
-
- []
-
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\latex\microtype\mt-cmr.cfg
-File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
-(RS)
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1phv.fd
+File: ot1phv.fd 2020/03/25 scalable font definitions for OT1/phv.
 )
-LaTeX Font Info:    Try loading font information for U+msa on input line 113.
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\latex\microtype\mt-msa.cfg
-File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
-)
-LaTeX Font Info:    Try loading font information for U+msb on input line 113.
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\latex\microtype\mt-msb.cfg
-File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
-)
-LaTeX Font Info:    Try loading font information for U+rsfs on input line 113.
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\jknappen\ursfs.fd"
-File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
-)
-Overfull \hbox (11.17546pt too wide) in paragraph at lines 113--119
- [][] 
- []
-
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 134.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [3
-
-]) (format/aaa.ltx
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24.88> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 3.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20.74> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 3.
-LaTeX Font Info:    Try loading font information for OT1+phv on input line 3.
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1phv.fd"
-File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
-)
-LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <20.74> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 3.
-Package microtype Info: Loading generic settings for font family
+Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `phv' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+\c@ttl@toc@chapters=\count503
 
+! Missing number, treated as zero.
+<to be read again> 
+                   \relax 
+l.208 	\Mprintcontents
+                      
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
 
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 28.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [4
-
-
-] (acknowledgment.tex)
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
- <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 38.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [5
-
-
-] (abstract.tex)
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 51.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [6
-
-
-])) (document.toc
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 27.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [7
-
-
-]
-Overfull \hbox (10.75226pt too wide) in paragraph at lines 40--40
- [][] [][][]\OT1/ptm/b/n/12 CONCLUSIONS, REC-OM-MEN-DA-TIONS, AND FU-TURE DI-RE
-C- 
- []
-
+(document.ptc)
+<figure//../format/dlsu_thesis_paper_letterhead.pdf, id=35, 614.295pt x 794.97p
+t>
+File: figure//../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf
 )
-\tf@toc=\write9
-\openout9 = `document.toc'.
-
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
- <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 141.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [8] (document.lof)
-\tf@lof=\write10
-\openout10 = `document.lof'.
-
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 145.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [9
-
-] (document.lot)
-\tf@lot=\write11
-\openout11 = `document.lot'.
-
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 149.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [10
-
-]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 158.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [11
-
-
-]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 171.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [12
-
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 177--177
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 177--177
-
- []
-
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 180.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [13
-
-
-] (document.lol)
-\tf@lol=\write12
-\openout12 = `document.lol'.
-
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 184.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [14
-
-]
-\c@ttl@toc@chapters=\count396
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 193.
-LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 193.
- (document.ptc)
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 195.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [1
-
-
-]
-\openout2 = `introduction.aux'.
-
- (introduction.tex
-LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <17.28> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 1.
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 5.
+<use figure//../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure//../format/dlsu_thesis_paper_letterhead.pdf  us
+ed on input line 210.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
  [2
 
-]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 8.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [3]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 29.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [4]
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 40.
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omsptm.fd"
-File: omsptm.fd 
-)
-LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 40.
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 57.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [5]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 78.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [6]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 103.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [7]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 133.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [8])
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 195.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [9] (document.ptc)
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 206.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [10
-
-
-
-]
+ <./figure//../format/dlsu_thesis_paper_letterhead.pdf>]
 \openout2 = `literature_review.aux'.
 
 
 (literature_review.tex
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
- <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 5.
+File: figure//../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf
+)
+<use figure//../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure//../format/dlsu_thesis_paper_letterhead.pdf  us
+ed on input line 5.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
-
-[11
+ [3
 
 ]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+File: figure//../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf
+)
+<use figure//../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure//../format/dlsu_thesis_paper_letterhead.pdf  us
+ed on input line 5.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [4]
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 1
+4.
 
- <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 5.
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+)
+File: figure//../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf
+)
+<use figure//../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure//../format/dlsu_thesis_paper_letterhead.pdf  us
+ed on input line 19.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+
+[5]
+File: figure//../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf
+)
+<use figure//../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure//../format/dlsu_thesis_paper_letterhead.pdf  us
+ed on input line 19.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [6])
+File: figure//../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf
+)
+<use figure//../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure//../format/dlsu_thesis_paper_letterhead.pdf  us
+ed on input line 210.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [7] (document.bbl
+bibitemlist
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
+(RS)
+)
+LaTeX Font Info:    Trying to load font information for U+msa on input line 5.
+
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 5.
+
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+)
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 5.
+
+
+(C:\Users\jeodo\AppData\Local\Programs\MiKTeX\tex/latex/jknappen\ursfs.fd
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+)
+File: figure//../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf
+)
+<use figure//../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure//../format/dlsu_thesis_paper_letterhead.pdf  us
+ed on input line 94.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+
+[8
+
+
+
+]
+File: figure//../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf
+)
+<use figure//../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure//../format/dlsu_thesis_paper_letterhead.pdf  us
+ed on input line 195.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [9]
+File: figure//../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf
+)
+<use figure//../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure//../format/dlsu_thesis_paper_letterhead.pdf  us
+ed on input line 283.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [10]
+File: figure//../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf
+)
+<use figure//../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure//../format/dlsu_thesis_paper_letterhead.pdf  us
+ed on input line 370.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [11]
+File: figure//../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf
+)
+<use figure//../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure//../format/dlsu_thesis_paper_letterhead.pdf  us
+ed on input line 446.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
  [12]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 19.
+File: figure//../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf
+)
+<use figure//../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure//../format/dlsu_thesis_paper_letterhead.pdf  us
+ed on input line 524.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
  [13]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 19.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [14])
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 206.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [15] (document.ptc)
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 218.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [16
-
-
-
-]
-\openout2 = `theoretical_considerations.aux'.
-
-
-(theoretical_considerations.tex
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 5.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [17
-
-]
-<figure/example_gray_box.pdf, id=556, 202.7575pt x 202.7575pt>
-File: figure/example_gray_box.pdf Graphic file (type pdf)
-
-<use figure/example_gray_box.pdf>
-Package pdftex.def Info: figure/example_gray_box.pdf used on input line 9.
-(pdftex.def)             Requested size: 214.67604pt x 214.6806pt.
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 12.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [18])
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 218.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [19 <./figure/example_gray_box.pdf>] (document.ptc)
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 229.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [20
-
-
-
-]
-\openout2 = `design_considerations.aux'.
-
-
-(design_considerations.tex
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 7.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [21
-
-]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 7.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [22])
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 229.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [23] (document.ptc)
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 240.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [24
-
-
-
-]
-\openout2 = `methodology.aux'.
-
- (methodology.tex
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 14.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [25
-
-]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 14.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [26]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 24.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [27]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 24.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [28])
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 240.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [29] (document.ptc)
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 252.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [30
-
-
-
-]
-\openout2 = `results_and_discussion.aux'.
-
-
-(results_and_discussion.tex
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 1.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [31
-
-])
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 252.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [32] (document.ptc)
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 265.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [33
-
-
-
-]
-\openout2 = `conclusions.aux'.
-
- (conclusions.tex
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 21.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [34
-
-]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 21.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [35])
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 265.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [36] (document.bbl
-bibitemlist
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 94.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [37
-
-
-
-]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 195.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [38]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 283.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [39]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 370.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [40]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 446.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [41]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 524.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [42]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 607.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [43]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 691.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [44])
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 294.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [45]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 305.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [46
-
-
-]
-\openout2 = `answers_to_questions.aux'.
-
-
-(answers_to_questions.tex
-Overfull \hbox (16.4331pt too wide) in paragraph at lines 13--13
-[][]\OT1/phv/b/n/17.28 How will you know if the so-lu-tion/s that you will achi
-eve
- []
-
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 23.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [47
-
-]
-LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <12> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 23.
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 46.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [48]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 64.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [49]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 83.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [50]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 98.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [51]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 115.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [52]
-Overfull \hbox (17.50684pt too wide) in paragraph at lines 132--132
-[][]\OT1/phv/b/n/14.4 What are the weak-nesses of your The-sis, specif-i-cally 
-your method-
- []
-
+File: figure//../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf
 )
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
- <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 305.
+<use figure//../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure//../format/dlsu_thesis_paper_letterhead.pdf  us
+ed on input line 607.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [53]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 305.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [54]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 314.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [55
-
-
-
-]
-\openout2 = `usage_examples.aux'.
-
-
-(usage_examples.tex
-Package microtype Info: Loading generic settings for font family
-(microtype)             `cmtt' (encoding: OT1).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 9.
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
- <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 39.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
-
-[56
-
-]
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstlang1.sty
-File: lstlang1.sty 2015/06/04 1.6 listings language file
+ [14]
+File: figure//../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf
 )
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstlang2.sty
-File: lstlang2.sty 2015/06/04 1.6 listings language file
+<use figure//../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure//../format/dlsu_thesis_paper_letterhead.pdf  us
+ed on input line 691.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [15])
+File: figure//../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf
 )
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstlang3.sty
-File: lstlang3.sty 2015/06/04 1.6 listings language file
-)
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstlang1.sty
-File: lstlang1.sty 2015/06/04 1.6 listings language file
-)
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstlang2.sty
-File: lstlang2.sty 2015/06/04 1.6 listings language file
-)
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstlang3.sty
-File: lstlang3.sty 2015/06/04 1.6 listings language file
-)
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstlang1.sty
-File: lstlang1.sty 2015/06/04 1.6 listings language file
-)
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstlang2.sty
-File: lstlang2.sty 2015/06/04 1.6 listings language file
-)
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstlang3.sty
-File: lstlang3.sty 2015/06/04 1.6 listings language file
-)
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstmisc.sty
-File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
-)
-Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
-nput line 47.
-LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <9> not available
-(Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 53.
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 78.
+<use figure//../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure//../format/dlsu_thesis_paper_letterhead.pdf  us
+ed on input line 298.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [57]
-Package microtype Info: Loading generic settings for font family
-(microtype)             `cmss' (encoding: OT1).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
-LaTeX Font Info:    Try loading font information for OML+cmr on input line 129.
+ [16]
 
+Package caption Warning: Unused \captionsetup[table] on input line 55.
+See the caption package documentation for explanation.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\omlcmr.fd"
-File: omlcmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OML/cmr/bx/it' in size <12> not available
-(Font)              Font shape `OML/cmm/b/it' tried instead on input line 129.
-LaTeX Font Info:    Font shape `OML/cmr/bx/it' in size <8> not available
-(Font)              Font shape `OML/cmm/b/it' tried instead on input line 129.
-LaTeX Font Info:    Font shape `OML/cmr/bx/it' in size <6> not available
-(Font)              Font shape `OML/cmm/b/it' tried instead on input line 129.
-LaTeX Font Info:    Try loading font information for OML+cmbr on input line 130
-.
 
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\latex\cmbright\omlcmbr.fd
-File: omlcmbr.fd 2005/04/13 v8.1 (WaS)
-)
-LaTeX Font Info:    Try loading font information for OML+cmbrm on input line 13
-0.
+Package caption Warning: Unused \captionsetup[figure] on input line 65.
+See the caption package documentation for explanation.
 
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\latex\cmbright\omlcmbrm.fd
-File: omlcmbrm.fd 2005/04/13 v8.1 (WaS)
-)
-LaTeX Font Info:    Font shape `OML/cmbr/m/it' in size <12> not available
-(Font)              Font shape `OML/cmbrm/m/it' tried instead on input line 130
-.
-LaTeX Font Info:    Font shape `OML/cmbr/m/it' in size <8> not available
-(Font)              Font shape `OML/cmbrm/m/it' tried instead on input line 130
-.
-LaTeX Font Info:    Font shape `OML/cmbr/m/it' in size <6> not available
-(Font)              Font shape `OML/cmbrm/m/it' tried instead on input line 130
-.
-LaTeX Font Info:    Font shape `OML/cmbr/bx/it' in size <12> not available
-(Font)              Font shape `OML/cmbrm/b/it' tried instead on input line 131
-.
-LaTeX Font Info:    Font shape `OML/cmbr/bx/it' in size <8> not available
-(Font)              Font shape `OML/cmbrm/b/it' tried instead on input line 131
-.
-LaTeX Font Info:    Font shape `OML/cmbr/bx/it' in size <6> not available
-(Font)              Font shape `OML/cmbrm/b/it' tried instead on input line 131
-.
-LaTeX Font Info:    Font shape `OML/cmr/bx/it' in size <10> not available
-(Font)              Font shape `OML/cmm/b/it' tried instead on input line 159.
-LaTeX Font Info:    Font shape `OML/cmr/bx/it' in size <7> not available
-(Font)              Font shape `OML/cmm/b/it' tried instead on input line 159.
-LaTeX Font Info:    Font shape `OML/cmr/bx/it' in size <5> not available
-(Font)              Font shape `OML/cmm/b/it' tried instead on input line 159.
-LaTeX Font Info:    Font shape `OML/cmbr/m/it' in size <10> not available
-(Font)              Font shape `OML/cmbrm/m/it' tried instead on input line 159
-.
-LaTeX Font Info:    Font shape `OML/cmbr/m/it' in size <7> not available
-(Font)              Font shape `OML/cmbrm/m/it' tried instead on input line 159
-.
-LaTeX Font Info:    Font shape `OML/cmbr/m/it' in size <5> not available
-(Font)              Font shape `OML/cmbrm/m/it' tried instead on input line 159
-.
-LaTeX Font Info:    Font shape `OML/cmbr/bx/it' in size <10> not available
-(Font)              Font shape `OML/cmbrm/b/it' tried instead on input line 159
-.
-LaTeX Font Info:    Font shape `OML/cmbr/bx/it' in size <7> not available
-(Font)              Font shape `OML/cmbrm/b/it' tried instead on input line 159
-.
-LaTeX Font Info:    Font shape `OML/cmbr/bx/it' in size <5> not available
-(Font)              Font shape `OML/cmbrm/b/it' tried instead on input line 159
-.
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+\tf@ptc=\write9
+\openout9 = `document.ptc'.
 
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 167.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [58
-
-]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 180.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [59]
-Overfull \hbox (11.43413pt too wide) in paragraph at lines 183--185
-\OT1/ptm/m/n/12 (-20) The ``bold'' math ver-sion is se-lected with the com-mand
-s []\OT1/cmtt/m/n/12 \boldmath \OT1/ptm/m/n/12 (-20) or []\OT1/cmtt/m/n/12 \mat
-hversion{bold} 
- []
-
-
-Overfull \hbox (2.12918pt too wide) in alignment at lines 187--194
- [][][] []
- []
-
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 259.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [60]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 321.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [61]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 376.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [62]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 422.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [63]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 517.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [64
-
-]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 518.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [65]
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 574.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [66
-
-]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 574.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [67]
-File: figure/example_gray_box.pdf Graphic file (type pdf)
-
-<use figure/example_gray_box.pdf>
-Package pdftex.def Info: figure/example_gray_box.pdf used on input line 594.
-(pdftex.def)             Requested size: 214.67604pt x 214.6806pt.
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 598.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [68
-
-]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 620.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [69
-
-]
-File: figure/example_gray_box.pdf Graphic file (type pdf)
-
-<use figure/example_gray_box.pdf>
-Package pdftex.def Info: figure/example_gray_box.pdf used on input line 631.
-(pdftex.def)             Requested size: 150.27585pt x 150.27951pt.
-File: figure/example_gray_box.pdf Graphic file (type pdf)
- <use figure/example_gray_box.pdf>
-Package pdftex.def Info: figure/example_gray_box.pdf used on input line 636.
-(pdftex.def)             Requested size: 150.27585pt x 150.27951pt.
-File: figure/example_gray_box.pdf Graphic file (type pdf)
-
-<use figure/example_gray_box.pdf>
-Package pdftex.def Info: figure/example_gray_box.pdf used on input line 641.
-(pdftex.def)             Requested size: 150.27585pt x 150.27951pt.
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 645.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [70]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 676.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [71
-
-
-]
-File: figure/example_gray_box.pdf Graphic file (type pdf)
-
-<use figure/example_gray_box.pdf>
-Package pdftex.def Info: figure/example_gray_box.pdf used on input line 689.
-(pdftex.def)             Requested size: 193.20712pt x 193.21254pt.
-File: figure/example_gray_box.pdf Graphic file (type pdf)
- <use figure/example_gray_box.pdf>
-Package pdftex.def Info: figure/example_gray_box.pdf used on input line 694.
-(pdftex.def)             Requested size: 193.20712pt x 193.21254pt.
-File: figure/example_gray_box.pdf Graphic file (type pdf)
-
-<use figure/example_gray_box.pdf>
-Package pdftex.def Info: figure/example_gray_box.pdf used on input line 699.
-(pdftex.def)             Requested size: 193.20712pt x 193.21254pt.
-File: figure/example_gray_box.pdf Graphic file (type pdf)
- <use figure/example_gray_box.pdf>
-Package pdftex.def Info: figure/example_gray_box.pdf used on input line 704.
-(pdftex.def)             Requested size: 193.20712pt x 193.21254pt.
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 708.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [72
-
-]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 744.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [73
-
-]
-Underfull \vbox (badness 10000) detected at line 843
- []
-
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 843.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [74
-
-]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 846.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [75]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 907.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [76
-
-]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 956.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [77]
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 977.
-LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 1004.
-
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 1012.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [78
-
-]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 1066.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [79
-
-]
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstlang1.sty
-File: lstlang1.sty 2015/06/04 1.6 listings language file
-)
-(C:\Users\cobalt\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstmisc.sty
-File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
-)
-(code/fibo.c)
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
- <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 1092.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [80
-
-]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 1093.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [81]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 1120.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [82
-
-]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 1141.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [83
-
-]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 1163.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [84
-
-]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 1223.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [85
-
-]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 1295.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [86]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 1355.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [87]
-
-LaTeX Warning: Citation `geer' on page 88 undefined on input line 1370.
-
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 1389.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [88]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 1416.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [89
-
-]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 1439.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [90
-
-]
-<./reference/Xilinx2015-UltraScale-Architecture-Overview.pdf, id=1908, 614.295p
-t x 794.97pt>
-File: ./reference/Xilinx2015-UltraScale-Architecture-Overview.pdf Graphic file 
-(type pdf)
-
-<use ./reference/Xilinx2015-UltraScale-Architecture-Overview.pdf>
-Package pdftex.def Info: ./reference/Xilinx2015-UltraScale-Architecture-Overvie
-w.pdf used on input line 1446.
-(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-File: ./reference/Xilinx2015-UltraScale-Architecture-Overview.pdf Graphic file 
-(type pdf)
-
-<use ./reference/Xilinx2015-UltraScale-Architecture-Overview.pdf>
-Package pdftex.def Info: ./reference/Xilinx2015-UltraScale-Architecture-Overvie
-w.pdf used on input line 1446.
-(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-
-<./reference/Xilinx2015-UltraScale-Architecture-Overview.pdf, id=1911, page=8, 
-614.295pt x 794.97pt>
-File: ./reference/Xilinx2015-UltraScale-Architecture-Overview.pdf Graphic file 
-(type pdf)
-
-<use ./reference/Xilinx2015-UltraScale-Architecture-Overview.pdf, page 8>
-Package pdftex.def Info: ./reference/Xilinx2015-UltraScale-Architecture-Overvie
-w.pdf, page8 used on input line 1446.
-(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-File: ./reference/Xilinx2015-UltraScale-Architecture-Overview.pdf Graphic file 
-(type pdf)
-
-<use ./reference/Xilinx2015-UltraScale-Architecture-Overview.pdf, page 8>
-Package pdftex.def Info: ./reference/Xilinx2015-UltraScale-Architecture-Overvie
-w.pdf, page8 used on input line 1446.
-(pdftex.def)             Requested size: 448.43161pt x 580.32329pt.
-File: ./reference/Xilinx2015-UltraScale-Architecture-Overview.pdf Graphic file 
-(type pdf)
-
-<use ./reference/Xilinx2015-UltraScale-Architecture-Overview.pdf, page 8>
-Package pdftex.def Info: ./reference/Xilinx2015-UltraScale-Architecture-Overvie
-w.pdf, page8 used on input line 1446.
-(pdftex.def)             Requested size: 448.43161pt x 580.32329pt.
-File: ./reference/Xilinx2015-UltraScale-Architecture-Overview.pdf Graphic file 
-(type pdf)
-
-<use ./reference/Xilinx2015-UltraScale-Architecture-Overview.pdf, page 8>
-Package pdftex.def Info: ./reference/Xilinx2015-UltraScale-Architecture-Overvie
-w.pdf, page8 used on input line 1446.
-(pdftex.def)             Requested size: 448.43161pt x 580.32329pt.
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 1446.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
-File: ./reference/Xilinx2015-UltraScale-Architecture-Overview.pdf Graphic file 
-(type pdf)
-
-<use ./reference/Xilinx2015-UltraScale-Architecture-Overview.pdf, page 8>
-Package pdftex.def Info: ./reference/Xilinx2015-UltraScale-Architecture-Overvie
-w.pdf, page8 used on input line 1446.
-(pdftex.def)             Requested size: 448.43161pt x 580.32329pt.
-
-[91
-
- <./reference/Xilinx2015-UltraScale-Architecture-Overview.pdf>]
-<./reference/Xilinx2015-UltraScale-Architecture-Overview.pdf, id=1936, page=9, 
-614.295pt x 794.97pt>
-File: ./reference/Xilinx2015-UltraScale-Architecture-Overview.pdf Graphic file 
-(type pdf)
-
-<use ./reference/Xilinx2015-UltraScale-Architecture-Overview.pdf, page 9>
-Package pdftex.def Info: ./reference/Xilinx2015-UltraScale-Architecture-Overvie
-w.pdf, page9 used on input line 1446.
-(pdftex.def)             Requested size: 448.43161pt x 580.32329pt.
-File: ./reference/Xilinx2015-UltraScale-Architecture-Overview.pdf Graphic file 
-(type pdf)
-
-<use ./reference/Xilinx2015-UltraScale-Architecture-Overview.pdf, page 9>
-Package pdftex.def Info: ./reference/Xilinx2015-UltraScale-Architecture-Overvie
-w.pdf, page9 used on input line 1446.
-(pdftex.def)             Requested size: 448.43161pt x 580.32329pt.
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 1446.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
-File: ./reference/Xilinx2015-UltraScale-Architecture-Overview.pdf Graphic file 
-(type pdf)
-
-<use ./reference/Xilinx2015-UltraScale-Architecture-Overview.pdf, page 9>
-Package pdftex.def Info: ./reference/Xilinx2015-UltraScale-Architecture-Overvie
-w.pdf, page9 used on input line 1446.
-(pdftex.def)             Requested size: 448.43161pt x 580.32329pt.
-
-[92 <./reference/Xilinx2015-UltraScale-Architecture-Overview.pdf>]
-<./reference/Xilinx2015-UltraScale-Architecture-Overview.pdf, id=1945, page=10,
- 614.295pt x 794.97pt>
-File: ./reference/Xilinx2015-UltraScale-Architecture-Overview.pdf Graphic file 
-(type pdf)
-
-<use ./reference/Xilinx2015-UltraScale-Architecture-Overview.pdf, page 10>
-Package pdftex.def Info: ./reference/Xilinx2015-UltraScale-Architecture-Overvie
-w.pdf, page10 used on input line 1446.
-(pdftex.def)             Requested size: 448.43161pt x 580.32329pt.
-File: ./reference/Xilinx2015-UltraScale-Architecture-Overview.pdf Graphic file 
-(type pdf)
-
-<use ./reference/Xilinx2015-UltraScale-Architecture-Overview.pdf, page 10>
-Package pdftex.def Info: ./reference/Xilinx2015-UltraScale-Architecture-Overvie
-w.pdf, page10 used on input line 1446.
-(pdftex.def)             Requested size: 448.43161pt x 580.32329pt.
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 1446.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
-File: ./reference/Xilinx2015-UltraScale-Architecture-Overview.pdf Graphic file 
-(type pdf)
-
-<use ./reference/Xilinx2015-UltraScale-Architecture-Overview.pdf, page 10>
-Package pdftex.def Info: ./reference/Xilinx2015-UltraScale-Architecture-Overvie
-w.pdf, page10 used on input line 1446.
-(pdftex.def)             Requested size: 448.43161pt x 580.32329pt.
-
-[93 <./reference/Xilinx2015-UltraScale-Architecture-Overview.pdf>])
-\openout2 = `publication.aux'.
-
-
-(publication.tex)
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
- <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 320.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
-
-[94
-
-
-
-
-]
-\openout2 = `vita.aux'.
-
- (vita.tex <figure/vita_photo.pdf, id=1970, 150.5625pt x 150.5625pt>
-File: figure/vita_photo.pdf Graphic file (type pdf)
-
-<use figure/vita_photo.pdf>
-Package pdftex.def Info: figure/vita_photo.pdf used on input line 11.
-(pdftex.def)             Requested size: 85.8691pt x 85.87204pt.
-File: figure/vita_photo.pdf Graphic file (type pdf)
- <use figure/vita_photo.pdf>
-Package pdftex.def Info: figure/vita_photo.pdf used on input line 11.
-(pdftex.def)             Requested size: 85.8691pt x 85.87204pt.
-File: figure/vita_photo.pdf Graphic file (type pdf)
-
-<use figure/vita_photo.pdf>
-Package pdftex.def Info: figure/vita_photo.pdf used on input line 11.
-(pdftex.def)             Requested size: 85.8691pt x 85.87204pt.
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 11.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [95
-
-
-
-
- <./figure/vita_photo.pdf>]
-File: figure/vita_photo.pdf Graphic file (type pdf)
- <use figure/vita_photo.pdf>
-Package pdftex.def Info: figure/vita_photo.pdf used on input line 11.
-(pdftex.def)             Requested size: 85.8691pt x 85.87204pt.
-File: figure/vita_photo.pdf Graphic file (type pdf)
- <use figure/vita_photo.pdf>
-Package pdftex.def Info: figure/vita_photo.pdf used on input line 11.
-(pdftex.def)             Requested size: 85.8691pt x 85.87204pt.
-)
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 326.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [96]
-No file document.ind.
-\tf@ptc=\write13
-\openout13 = `document.ptc'.
-
-
-Package datagidx Warning: Rerun required to sort the index/glossary databases.
-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 336.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 336.
-(document.aux (introduction.aux) (literature_review.aux)
-(theoretical_considerations.aux) (design_considerations.aux) (methodology.aux)
-(results_and_discussion.aux) (conclusions.aux) (answers_to_questions.aux)
-(usage_examples.aux) (publication.aux) (vita.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 336.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 336.
+(document.aux (literature_review.aux))
 Package rerunfilecheck Info: File `document.out' has not changed.
-(rerunfilecheck)             Checksum: AD482D44657188C06437C5378B3FA76B;2944.
-
-
-LaTeX Warning: There were undefined references.
-
+(rerunfilecheck)             Checksum: 05D77852E2D558AD1B0268A759AA9F7A;624.
  ) 
 Here is how much of TeX's memory you used:
- 37257 strings out of 493333
- 624986 string characters out of 3139191
- 1382771 words of memory out of 3000000
- 38602 multiletter control sequences out of 15000+200000
- 87792 words of font info for 371 fonts, out of 3000000 for 9000
+ 40633 strings out of 478659
+ 722019 string characters out of 2845921
+ 1128841 words of memory out of 3000000
+ 57575 multiletter control sequences out of 15000+600000
+ 439884 words of font info for 249 fonts, out of 8000000 for 9000
  1149 hyphenation exceptions out of 8191
- 65i,20n,126p,1085b,2061s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\cobalt\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\public\cmbright\dp
-i720\cmbrmb10.pk> <C:\Users\cobalt\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\pub
-lic\cmbright\dpi720\cmbrmi10.pk>{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/ba
-se/8r.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbsy10.p
-fb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/P
-rogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx8.pfb><C:/Program Fi
-les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Program Files/Mi
-KTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9
-/fonts/type1/public/amsfonts/cm/cmitt10.pfb><C:/Program Files/MiKTeX 2.9/fonts/
-type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pu
-blic/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/ams
-fonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
-cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmib10.p
-fb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cmextra/cmmib8.pfb>
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Progr
-am Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/
-MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9
-/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
-e1/public/amsfonts/cm/cmss12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publi
-c/amsfonts/cm/cmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsf
-onts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
-cmsy8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pf
-b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt12.pfb><C:/Pr
-ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt9.pfb><C:/Program Fil
-es/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Program Files/
-MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msbm10.pfb><C:/Program Files/MiK
-TeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/
-type1/urw/helvetic/uhvr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/time
-s/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/
-Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on document.pdf (110 pages, 987531 bytes).
+ 111i,14n,108p,2735b,591s stack positions out of 5000i,500n,10000p,200000b,80000s
+{C:/Users/jeodo/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:
+/Users/jeodo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi1
+0.pfb><C:/Users/jeodo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
+/cm/cmr10.pfb><C:/Users/jeodo/AppData/Local/Programs/MiKTeX/fonts/type1/urw/hel
+vetic/uhvb8a.pfb><C:/Users/jeodo/AppData/Local/Programs/MiKTeX/fonts/type1/urw/
+times/utmr8a.pfb><C:/Users/jeodo/AppData/Local/Programs/MiKTeX/fonts/type1/urw/
+times/utmri8a.pfb>
+Output written on document.pdf (16 pages, 207418 bytes).
 PDF statistics:
- 2343 PDF objects out of 2487 (max. 8388607)
- 1037 named destinations out of 1200 (max. 500000)
- 63431 words of extra memory for PDF output out of 74296 (max. 10000000)
+ 328 PDF objects out of 1000 (max. 8388607)
+ 179 named destinations out of 1000 (max. 500000)
+ 55359 words of extra memory for PDF output out of 61914 (max. 10000000)
 
