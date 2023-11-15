@@ -6,8 +6,6 @@
 \addvspace {10pt}
 \addvspace {10pt}
 \addvspace {10pt}
-\addvspace {10pt}
-\addvspace {10pt}
 \contentsline {figure}{\numberline {B.1}{\ignorespaces A quadrilateral image example.\relax }}{68}{figure.caption.58}
 \contentsline {figure}{\numberline {B.2}{\ignorespaces Figures on top of each other. See List.\nobreakspace {}\ref {lst:figsontop} for the corresponding \LaTeX \ code. \relax }}{70}{figure.caption.60}
 \contentsline {subfigure}{\numberline {(a)}{\ignorespaces A sub-figure in the top row.}}{70}{figure.caption.60}
@@ -18,6 +16,4 @@
 \contentsline {subfigure}{\numberline {(b)}{\ignorespaces A sub-figure in the upper-right corner.}}{72}{figure.caption.62}
 \contentsline {subfigure}{\numberline {(c)}{\ignorespaces A sub-figure in the lower-left corner.}}{72}{figure.caption.62}
 \contentsline {subfigure}{\numberline {(d)}{\ignorespaces A sub-figure in the lower-right corner}}{72}{figure.caption.62}
-\addvspace {10pt}
-\addvspace {10pt}
 \contentsfinish 
