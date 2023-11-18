@@ -127,6 +127,8 @@ literature_review,
 %vita,
 }
 
+\addbibresource{urban-heat.bib}
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{document}
 %\pagenumbering{roman} % roman page numbering starts here
@@ -276,9 +278,10 @@ literature_review,
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \renewcommand{\UrlFont}{\normalfont}
 %\bibliographystyle{IEEEtr} % for IEEE referencing format
-\bibliographystyle{apalike} % for APA referencing format
+%\bibliographystyle{apalike} % for APA referencing format
+\nocite{*} 
 \begin{SingleSpace}
-  {\small \bibliography{references}}
+{\printbibliography} %removed the /small
 %	\vfill
 %	\LaTeX-comment this and the following texts after you have implemented them. See the following references for helpful guides for the bibliography and script editing in general.  Note that the links might be unavailable, but the names can be searched in the Web.
 %		

@@ -254,3 +254,14 @@
 \newcommand{\defineAuthor}[2]{\expandafter \newcommand 
                               \csname remark-#1\endcsname{#2}}
 \newcommand{\documentAuthor}[1]{\csname remark-#1\endcsname}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%my additions
+\usepackage[american]{babel}
+\usepackage{csquotes}
+\usepackage[
+	backend=biber,
+	style=apa
+]{biblatex}
+
+\addbibresource{urban-heat.bib}
